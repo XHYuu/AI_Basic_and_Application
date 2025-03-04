@@ -18,8 +18,7 @@ class NaiveBayesClassifier:
     def __init__(self, train_dir='data/haiti/train', REMOVE_STOPWORDS=False):
         self.REMOVE_STOPWORDS = REMOVE_STOPWORDS
         self.stopwords = set([l.strip() for l in open('data/english.stop')])
-        self.classes = os.listdir(train_dir)  # ['irrelevant', 'relevant']
-        # {'irrelevant': 'data/haiti/train\\irrelevant', 'relevant': 'data/haiti/train\\relevant'}
+        self.classes = os.listdir(train_dir)
         self.train_data = {c: os.path.join(train_dir, c) for c in self.classes}
         self.vocabulary = set()
         self.logprior = {}
@@ -90,6 +89,8 @@ class NaiveBayesClassifier:
             self.logprior[c] = math.log(p_class[i] / total_doc)
         # Calculate likelihoods
         for i, counter in enumerate(counters):
+            for word in self.vocabulary:
+                self.loglikelihood[(word, self.classes[i])] = math.log(1. / len(self.vocabulary))
             for word, count in counter.items():
                 self.loglikelihood[(word, self.classes[i])] = \
                     math.log((count + 1.) / (total_word_in_class[i] + 1. * len(self.vocabulary)))
