@@ -57,7 +57,7 @@ class TokenEmbedding:
 
     def _load_embedding(self, embedding_name, data_dir):
         idx_to_token, idx_to_vec = ['<unk>'], []
-        with open(os.path.join(data_dir, 'glove.6B.100d.txt'), 'r') as f:
+        with open(os.path.join(data_dir, embedding_name), 'r') as f:
             for line in f:
                 elems = line.rstrip().split(' ')
                 token, elems = elems[0], [float(elem) for elem in elems[1:]]
