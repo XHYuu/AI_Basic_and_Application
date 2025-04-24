@@ -1,0 +1,394 @@
+[
+  {
+    "text":"I am experiencing symptoms of mild fever, headache, and body aches. I recently took a trip to an area with high risk of Lyme disease. Should I start taking antibiotics?",
+    "label":4
+  },
+  {
+    "text":"I'm concerned about my recent health insurance policy, specifically the out-of-pocket costs for my prescription medication. Will I need to pay more if I visit a specialist?",
+    "label":1
+  },
+  {
+    "text":"I've been experiencing a rash on my skin for the past week. It's red, itchy, and circular. I've tried applying hydrocortisone cream but it doesn't seem to be helping. What could be the cause of this rash and what should I do?",
+    "label":4
+  },
+  {
+    "text":"What are the latest developments in COVID-19 vaccination research? Should I get vaccinated if I'm in my mid-30s and healthy?",
+    "label":8
+  },
+  {
+    "text":"The new pediatric flu vaccine is reported to be highly effective in preventing cases of flu among children. Is it safe for my 7-year-old to get the shot?",
+    "label":8
+  },
+  {
+    "text":"I've been taking 'Xanax' for anxiety for a while now, but recently I've noticed I'm getting dizzy and my hands are shaking a lot. Could it be due to the medication or something else?",
+    "label":0
+  },
+  {
+    "text":"I am interested in learning about how often I should get vaccinated against the flu to prevent illness during the winter months.",
+    "label":8
+  },
+  {
+    "text":"I have been taking a new medication and my skin has been breaking out terribly, especially on my face and chest. Can this be a side effect of the medication?",
+    "label":0
+  },
+  {
+    "text":"I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "label":6
+  },
+  {
+    "text":"I'm feeling really unwell, I have a fever of 38 degrees Celsius and severe chest pain when I cough. I'm also experiencing shortness of breath. I'm worried I might have pneumonia or some kind of respiratory infection.",
+    "label":4
+  },
+  {
+    "text":"I have been experiencing sharp pains in my left side of the chest that started yesterday. They occur every 10 minutes and last for about 2 minutes.",
+    "label":4
+  },
+  {
+    "text":"My elbow has been painful for a few weeks. It hurts more when I bend my arm or move it in certain directions. Sometimes, I feel like I've twisted it wrong. I played basketball last weekend, but I've had this pain for months before that.",
+    "label":4
+  },
+  {
+    "text":"I have been experiencing muscle cramps and weakness in my arms and legs for the past few weeks. I am concerned that I may have a condition that affects my nerves. Should I be worried about developing multiple sclerosis?",
+    "label":4
+  },
+  {
+    "text":"I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "label":6
+  },
+  {
+    "text":"I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "label":6
+  },
+  {
+    "text":"My insurance provider denied my claim for a procedure that my doctor recommended due to lack of coverage. Can I appeal this decision?",
+    "label":1
+  },
+  {
+    "text":"I'm concerned about covering the out-of-network costs for my upcoming surgery. Will my insurance plan cover it?",
+    "label":1
+  },
+  {
+    "text":"I am experiencing severe chest pain and difficulty breathing after tripping on the stairs. I am in New York.",
+    "label":4
+  },
+  {
+    "text":"Patient has been experiencing severe chest pain and difficulty breathing for the past 2 hours. The patient is a 45-year-old male, non-smoker, with a history of hypertension.",
+    "label":4
+  },
+  {
+    "text":"I'm planning a trip to South America and I was wondering if it's a good idea to get vaccinated against yellow fever before traveling to certain countries.",
+    "label":8
+  },
+  {
+    "text":"I am experiencing persistent headaches after starting a new medication, is there anything I can do to prevent these side effects?",
+    "label":0
+  },
+  {
+    "text":"I need help understanding my medical bill, can someone please explain the deductibles and copays on my recent MRI?",
+    "label":1
+  },
+  {
+    "text":"I'm 32 weeks pregnant and my obstetrician has ordered a non-stress test to check the baby's heart rate. Can you explain what I need to expect during the procedure and how long it will take?",
+    "label":7
+  },
+  {
+    "text":"I have been experiencing a high fever and body aches for the past 3 days. My throat is also severely sore and I have a dry cough. I've been feeling tired and just want to go back to bed.",
+    "label":4
+  },
+  {
+    "text":"Can taking ibuprofen daily while on blood thinners increase the risk of internal bleeding?",
+    "label":0
+  },
+  {
+    "text":"I've been taking warfarin for the past 3 months to prevent blood clots and I've been experiencing frequent nosebleeds. Is this a side effect of the medication?",
+    "label":0
+  },
+  {
+    "text":"I'm experiencing severe chest pain and shortness of breath, what medical tests can my doctor perform to diagnose the cause?",
+    "label":2
+  },
+  {
+    "text":"My ear feels like it's plugged and sounds like there's a lot of pressure inside. Occasionally, my throat feels scratchy and sore. ",
+    "label":4
+  },
+  {
+    "text":"I've been experiencing some dizziness after taking this new medication for high blood pressure. It's been happening every day since I started the treatment.",
+    "label":0
+  },
+  {
+    "text":"I'm experiencing symptoms of shortness of breath, chest pain and extreme fatigue after a recent flu infection. I'm worried that I might have developed pneumonia. Can you please advise me on the best course of action to take?",
+    "label":4
+  },
+  {
+    "text":"I'm experiencing severe chest pain and shortness of breath after taking my medication for high blood pressure. I'm worried about my heart attack risk. Can I change my medication to something safer?",
+    "label":4
+  },
+  {
+    "text":"I was wondering if I can obtain a discount on my medication if I switch health insurance plans during open enrollment, but I'm not sure if my current plan will still cover my prescription.",
+    "label":1
+  },
+  {
+    "text":"I've been taking Lipitor for high cholesterol, but I've been experiencing stomach pain and diarrhea. Could this be related to my medication?",
+    "label":0
+  },
+  {
+    "text":"I'm experiencing high blood pressure, what medications can I take to bring my reading down quickly? I'm worried about having a stroke.",
+    "label":5
+  },
+  {
+    "text":"I am experiencing chest pain and shortness of breath. I've been taking ibuprofen for the past 24 hours, but my symptoms have not improved. Should I seek immediate medical attention?",
+    "label":4
+  },
+  {
+    "text":"I've been experiencing constant back pain while lifting my kids and I'm worried it might be related to a herniated disc. Can I get a referral to see an orthopedic specialist?",
+    "label":7
+  },
+  {
+    "text":"My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "label":6
+  },
+  {
+    "text":"I have been taking prescribed antacids for the past year, and I've noticed a recent increase in stomach pain after taking them. I'm worried it might be due to medication side effects.",
+    "label":0
+  },
+  {
+    "text":"I have been experiencing recurring headaches and I am concerned that it might be related to my diet. Can I discuss with my doctor the potential impact of too much caffeine and sugar on my body?",
+    "label":4
+  },
+  {
+    "text":"I've been taking paracetamol for 2 weeks, but my back pain has become worse. Could it be a side effect of the medication?",
+    "label":0
+  },
+  {
+    "text":"Recently, there have been numerous cases of flu outbreaks in many countries. Some people are worried about getting vaccinated, and others are worried that their immune systems are vulnerable to the virus. What are the risks associated with delayed vaccination in pregnant women?",
+    "label":8
+  },
+  {
+    "text":"What are the potential side effects of long-term use of proton pump inhibitors, and are there any alternative treatments for acid reflux?",
+    "label":0
+  },
+  {
+    "text":"I've been taking acetaminophen for years to alleviate menstrual cramps, but I'm worried it may affect my kidney function. Can it contribute to kidney damage if I take it regularly?",
+    "label":0
+  },
+  {
+    "text":"I'm experiencing persistent back pain after lifting heavy boxes at work. I have tried stretching and rest, but it persists. Can you advise on the best course of action?",
+    "label":4
+  },
+  {
+    "text":"I've been experiencing severe headaches and sensitivity to light for the past week. My doctor prescribed me medication for migraines, but it's not providing any relief. What could be the underlying cause of my symptoms?",
+    "label":4
+  },
+  {
+    "text":"I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "label":6
+  },
+  {
+    "text":"As I've been experiencing persistent headaches and eye strain from reading on my computer for long hours, I'm worried about potential long-term effects on my vision and eye health. Can you advise on ways to reduce digital eye fatigue and prevent vision problems?",
+    "label":3
+  },
+  {
+    "text":"I've been experiencing severe vomiting and diarrhea for the past 24 hours, along with a low-grade fever. I've been on antibiotics for a sinus infection for the past week, but I'm getting worried that the symptoms may be connected. What could be the possible causes?",
+    "label":4
+  },
+  {
+    "text":"I have been experiencing severe chest pain and difficulty breathing after lifting heavy objects. What can I do to alleviate this pain?",
+    "label":4
+  },
+  {
+    "text":"I am planning to get my vaccinations updated before traveling to a third-world country. What should I get and when should I get it?",
+    "label":8
+  },
+  {
+    "text":"I am planning to travel to Europe next month. What are the recommended vaccinations for travel to Europe during summer?",
+    "label":8
+  },
+  {
+    "text":"The patient has been experiencing recurring episodes of sharp pains in the left side of her head, accompanied by sensitivity to light and sounds, and a sudden, severe headache when waking up in the morning. She also reports a history of similar episodes over the past few months.",
+    "label":4
+  },
+  {
+    "text":"My mother is taking Amlodipine 5mg daily for her hypertension, but lately, she has been experiencing persistent swelling in her legs and shortness of breath after taking the medication. Could you please advise on the possible causes?",
+    "label":0
+  },
+  {
+    "text":"I'm experiencing chest pain after eating a heavy meal, I also had a family history of heart disease, is there anything that could be causing this?",
+    "label":4
+  },
+  {
+    "text":"I've recently started experiencing joint pain and stiffness, especially after physical activities. I was wondering if there's any way to prevent this from happening again. Have you heard of anything that might help with joint health?",
+    "label":4
+  },
+  {
+    "text":"What is the most effective way to prevent the progression of kidney disease, including lifestyle changes and preventative medications? I'm an 55-year-old male with a family history of kidney issues. My doctor suggested a healthy diet, regular exercise, and regular blood pressure checks.",
+    "label":3
+  },
+  {
+    "text":"I'm concerned that my medicare plan doesn't cover all the costs of my ongoing physical therapy sessions. Can I get a second opinion from a specialist on what else I can do to reduce my out-of-pocket expenses?",
+    "label":1
+  },
+  {
+    "text":"I've been experiencing recurring episodes of fatigue and shortness of breath after exertion, which seem to be worse in the morning.",
+    "label":4
+  },
+  {
+    "text":"My grandmother is experiencing severe chest pains after a recent fall and is now having trouble breathing. What are the symptoms and possible causes of this condition?",
+    "label":4
+  },
+  {
+    "text":"I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "label":6
+  },
+  {
+    "text":"My arm hurts when I lift it above my head and move it to the side, it's a sharp pain and my arm feels tired after, my doctor said something about inflammation but I'm not sure what it means, should I take any medication for it?",
+    "label":4
+  },
+  {
+    "text":"What are the recommended ages for the COVID-19 vaccine boosters?",
+    "label":8
+  },
+  {
+    "text":"What is the recommended dosage for the COVID-19 vaccine for children under the age of 12?",
+    "label":8
+  },
+  {
+    "text":"I recently had a blood test and I'm worried that my results might be abnormal. Could you please explain what all the values mean?",
+    "label":2
+  },
+  {
+    "text":"The patient is experiencing a sudden severe headache, vomiting, and sensitivity to light. They have been feeling unwell for the past 24 hours and have a history of migraines.",
+    "label":4
+  },
+  {
+    "text":"I am concerned about the potential interactions between my medications and a new supplement I started taking. I am taking azathioprine for my rheumatoid arthritis and was prescribed a probiotic that contains alfalfa.",
+    "label":0
+  },
+  {
+    "text":"I've been taking Daptomycin for my bacterial infection and I noticed I have been experiencing stomach cramps and diarrhea. Could it be a side effect of the medication?",
+    "label":0
+  },
+  {
+    "text":"I want to know if our health insurance covers hospital expenses if I need an emergency surgery. I will be traveling to the US soon and I want to be prepared.",
+    "label":1
+  },
+  {
+    "text":"I've been experiencing burning sensations when I urinate and a slight pressure in my lower back. Could this be a kidney stone?",
+    "label":4
+  },
+  {
+    "text":"I am experiencing abdominal pain and nausea after taking a new medication. What could be the cause?",
+    "label":0
+  },
+  {
+    "text":"The patient is taking warfarin for atrial fibrillation and now asks about the interaction with tea consumption.",
+    "label":0
+  },
+  {
+    "text":"What are the common symptoms of diabetes and how can it be treated?",
+    "label":6
+  },
+  {
+    "text":"I've been experiencing persistent fatigue and headaches after my recent surgery. What could be the reason behind it?",
+    "label":4
+  },
+  {
+    "text":"I have been experiencing headaches and dizziness since taking my new allergy medication for the past week. Is this a normal side effect?",
+    "label":0
+  },
+  {
+    "text":"Patient has been experiencing persistent pain in her left knee after jogging, mainly at the posterior aspect.",
+    "label":4
+  },
+  {
+    "text":"I've been experiencing constant headaches and fatigue for the past few weeks. My temperature is 38.5°C. I'm worried I might have urinary tract infection or bronchitis.",
+    "label":4
+  },
+  {
+    "text":"I've been taking 500mg of ibuprofen every 6 hours for my knee pain, but I'm worried about stomach ulcers and heart problems. Can I switch to acetaminophen?",
+    "label":0
+  },
+  {
+    "text":"I would like to know what vaccinations are available for preventing the flu virus this year and any recommendations for individuals with a weakened immune system.",
+    "label":8
+  },
+  {
+    "text":"My mom has been experiencing chest discomfort when she walks uphill, which is sometimes accompanied by a shortness of breath and a pain in her arm. It happens every time she goes for a longer walk and stops once she rests.",
+    "label":4
+  },
+  {
+    "text":"After taking the prescribed dosage of the new medication, I have experienced frequent and severe headaches. Could this be related to my previous medical condition?",
+    "label":0
+  },
+  {
+    "text":"I've been experiencing some fatigue and body aches. I'm  days. Should I get tested for something like mono or something else?",
+    "label":4
+  },
+  {
+    "text":"I'm experiencing muscle cramps after taking multivitamins. Could this be related to the iron supplement or the other vitamins? My healthcare provider recommended taking high doses of both iron and calcium. Can you advise on how to avoid muscle cramps and still maintain high levels of iron in my blood?",
+    "label":0
+  },
+  {
+    "text":"A 35-year-old woman is experiencing fatigue, shortness of breath, and a persistent cough, which worsens at night. She has a family history of heart disease and high blood pressure. She is a non-smoker and does not drink excessively. What could be the cause of her symptoms?",
+    "label":4
+  },
+  {
+    "text":"I'm experiencing symptoms like fever, headache, and fatigue. I went to the doctor and she gave me a shot and prescribed some medication. I want to know if this is a common illness in summer.",
+    "label":4
+  },
+  {
+    "text":"My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "label":6
+  },
+  {
+    "text":"The patient has been taking medication for high blood pressure and has concerns about the interaction with a new supplement they are planning to start consuming. Can you recommend a safe dosage or advise against it completely?",
+    "label":0
+  },
+  {
+    "text":"I'm worried that my child is at a higher risk of getting sick with the new strain of the flu this winter because we took them to Disney World last year and they might have come into contact with someone who had the flu. What are the most effective ways to protect them from getting sick this flu season?",
+    "label":3
+  },
+  {
+    "text":"I'm experiencing side effects from my flu shot and I'm getting a bit concerned. I feel dizzy and my arm is sore, but I heard it's normal. Can I still get another flu shot if I'm not fully recovered?",
+    "label":0
+  },
+  {
+    "text":"I need some information on potential side effects of paracetamol. Is it safe to take for long term periods?",
+    "label":0
+  },
+  {
+    "text":"The patient reports experiencing sudden severe headache, loss of vision and difficulty speaking. It started after a minor accident on the weekend.",
+    "label":4
+  },
+  {
+    "text":"I have been experiencing persistent chest pain when I exercise and shortness of breath after eating spicy food. Could it be related to a heart condition?",
+    "label":4
+  },
+  {
+    "text":"I need help to confirm if our insurance policy covers my hospital stay for a blood test that costs 500 dollars. Does the policy cover 80% of the medical expenses, or do I need to make a separate payment for the lab test?",
+    "label":1
+  },
+  {
+    "text":"I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "label":6
+  },
+  {
+    "text":"I'm experiencing severe chest pain and difficulty breathing. Can I schedule an appointment with my cardiologist?",
+    "label":4
+  },
+  {
+    "text":"I'm experiencing a painful and swollen ankle after a sports game yesterday. I've tried putting ice on it and elevating it, but the pain persists. What could be the possible causes and how do I treat it?",
+    "label":4
+  },
+  {
+    "text":"My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "label":6
+  },
+  {
+    "text":"I'm experiencing chronic headaches and dizziness, and I was wondering if it could be related to my high blood pressure.",
+    "label":4
+  },
+  {
+    "text":"I've been feeling exhausted lately and I have a hard time sleeping. I'm 35 years old and have been experiencing shortness of breath after minor exercise. I'm worried it might be related to my high blood pressure.",
+    "label":4
+  }
+]
