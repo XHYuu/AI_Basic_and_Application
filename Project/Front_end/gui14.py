@@ -1,4 +1,6 @@
+import json
 import locale
+import re
 import sys
 from PySide6.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QPushButton, QScrollArea, QSizePolicy,
@@ -225,16 +227,39 @@ class ChatBox(QWidget):
         font_metrics = QFontMetrics(font)
         lines = []
         current_line = ""
-        for char in message:
-            test_line = current_line + char
-            text_line_width = font_metrics.horizontalAdvance(test_line)
-            if text_line_width > max_width:
-                lines.append(current_line.strip())
-                current_line = char
+
+        tokens = re.findall(r'\S+|\s+|[.,;:!?]', message)
+
+        for token in tokens:
+            if '-' in token and not token.strip() in "-":
+                parts = token.split('-')
+                for i, part in enumerate(parts):
+                    if i < len(parts) - 1:
+                        part += '-'
+
+                    test_line = current_line + part
+                    text_line_width = font_metrics.horizontalAdvance(test_line)
+
+                    if text_line_width > max_width:
+                        if current_line.strip():
+                            lines.append(current_line.strip())
+                        current_line = part.lstrip()
+                    else:
+                        current_line = test_line
             else:
-                current_line = test_line
-        if current_line:
+                test_line = current_line + token
+                text_line_width = font_metrics.horizontalAdvance(test_line)
+
+                if text_line_width > max_width:
+                    if current_line.strip():  # 当前行有内容
+                        lines.append(current_line.strip())
+                    current_line = token.lstrip()  # 新的一行从当前token开始，去除前置空格
+                else:
+                    current_line = test_line
+
+        if current_line.strip():
             lines.append(current_line.strip())
+
         wrapped_text = "\r\n".join(lines)
         return wrapped_text
 
@@ -246,8 +271,14 @@ class ChatBox(QWidget):
         self.model_process = QProcess(self)
         self.model_process.setProgram(sys.executable)
         self.model_process.setArguments(['mock_model.py'])
+
+        model_handle = {
+            "user_input": user_input,
+        }
+        input_str = json.dumps(model_handle)
+
         self.model_process.readyReadStandardOutput.connect(self.handle_model_output)
-        self.model_process.started.connect(lambda: self.model_process.write((user_input + '\n').encode('utf-8')))
+        self.model_process.started.connect(lambda: self.model_process.write((input_str + '\n').encode('utf-8')))
         self.model_process.start()
 
     def handle_model_output(self):
@@ -261,7 +292,7 @@ class ChatBox(QWidget):
             if line.strip():
                 self.add_message(line.strip(), is_sender=False)
                 # 只在“结果判定”时询问
-                if "结果判定" in line:
+                if "The result is" in line:
                     ask_confirm = True
         if ask_confirm:
             self.add_message("请问您是否认可本次结果？请输入“是”或“否”等待输入", is_sender=False)
