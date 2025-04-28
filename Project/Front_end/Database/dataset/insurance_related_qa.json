@@ -1,0 +1,252 @@
+[
+  {
+    "question": "I'm concerned about my recent health insurance policy, specifically the out-of-pocket costs for my prescription medication. Will I need to pay more if I visit a specialist?",
+    "answer": "You may be responsible for a higher copay or coinsurance when visiting a specialist. Check your plan's summary of benefits.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "My insurance provider denied my claim for a procedure that my doctor recommended due to lack of coverage. Can I appeal this decision?",
+    "answer": "Yes, you can appeal a denied claim. Contact your insurer's appeals department for the process.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "I'm concerned about covering the out-of-network costs for my upcoming surgery. Will my insurance plan cover it?",
+    "answer": "Some plans cover out-of-network procedures partially, others don’t. Verify with your insurance provider.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "I need help understanding my medical bill, can someone please explain the deductibles and copays on my recent MRI?",
+    "answer": "Deductibles are the amount you pay before coverage starts. Copays are fixed fees for specific services.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "I was wondering if I can obtain a discount on my medication if I switch health insurance plans during open enrollment, but I'm not sure if my current plan will still cover my prescription.",
+    "answer": "Compare plan formularies during open enrollment to ensure continued coverage for your medication.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "I'm concerned that my medicare plan doesn't cover all the costs of my ongoing physical therapy sessions. Can I get a second opinion from a specialist on what else I can do to reduce my out-of-pocket expenses?",
+    "answer": "Supplemental coverage or financial assistance programs may help reduce your therapy costs.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "I want to know if our health insurance covers hospital expenses if I need an emergency surgery. I will be traveling to the US soon and I want to be prepared.",
+    "answer": "Emergency services are generally covered, but check for out-of-country exceptions or travel clauses.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "I need help to confirm if our insurance policy covers my hospital stay for a blood test that costs 500 dollars. Does the policy cover 80% of the medical expenses, or do I need to make a separate payment for the lab test?",
+    "answer": "Coverage often depends on whether it’s inpatient or outpatient care. Review your benefits summary.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Does my insurance cover annual dental checkups or is that a separate dental plan?",
+    "answer": "Most general health plans do not cover dental unless you have a specific dental policy.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "What is the difference between an HMO and PPO plan and which offers better specialist coverage?",
+    "answer": "PPOs usually offer better out-of-network access, while HMOs often require referrals.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Can I continue seeing my current doctor if my insurance provider changes next year?",
+    "answer": "Provider availability depends on your new plan's network. Always verify before changing.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "What are the penalties if I miss the open enrollment period for health insurance?",
+    "answer": "Missing the deadline might leave you uninsured unless you qualify for a special enrollment period.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "How do I check if my insurance covers mental health therapy sessions?",
+    "answer": "Mental health services are increasingly covered but vary by plan. Check your policy.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Are telemedicine visits covered under most insurance plans now?",
+    "answer": "Yes, telehealth is widely covered post-pandemic, though policies may differ.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Can I use my HSA account to pay for over-the-counter medications?",
+    "answer": "Yes, HSA funds can be used for qualified medical expenses including certain OTC meds.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Does my child need separate insurance or is coverage under my family plan sufficient?",
+    "answer": "Children are usually covered under family plans up to age 26, depending on the provider.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "If I lose my job, how long will COBRA coverage last and how much does it cost?",
+    "answer": "COBRA typically lasts up to 18 months, but can be expensive without employer contributions.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Does my insurance cover ambulance transportation during emergencies?",
+    "answer": "Yes, ambulance rides are covered during emergencies, but check if pre-authorization is required.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Will my insurance pay for a second opinion if I’m unsure about a diagnosis?",
+    "answer": "Second opinions are often covered, particularly for major diagnoses or surgeries.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Is physical therapy covered after a sports injury under my standard health plan?",
+    "answer": "Many plans include physical therapy, though limits and pre-approvals may apply.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "What portion of maternity expenses are covered under typical health insurance?",
+    "answer": "Maternity coverage varies, but prenatal and delivery costs are often included.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Are pre-existing conditions covered if I switch to a new insurance provider?",
+    "answer": "Since the ACA, pre-existing conditions are typically covered in most new plans.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Does insurance cover allergy testing and treatment like shots or medication?",
+    "answer": "Allergy treatments are usually covered, especially if medically necessary.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "What is the process to file a reimbursement claim for out-of-pocket hospital visits?",
+    "answer": "You’ll need to submit documentation, such as receipts and discharge notes, for reimbursement.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "How do copays differ between urgent care visits and ER visits?",
+    "answer": "Urgent care usually costs less than ER, depending on the network tier.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Does travel insurance cover medical emergencies outside of my home country?",
+    "answer": "Travel insurance policies often cover international emergencies, but confirm the fine print.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Is there a cap on the number of physical therapy sessions covered annually?",
+    "answer": "Check your plan for visit caps or annual limits for therapy services.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "What are the in-network lab testing benefits vs out-of-network costs?",
+    "answer": "In-network labs are cheaper; out-of-network tests may not be fully reimbursed.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Can I add my elderly parent as a dependent under my employer's insurance?",
+    "answer": "Not all plans allow this — check eligibility and your employer’s rules.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "What’s the difference between a deductible and an out-of-pocket maximum?",
+    "answer": "Deductible is what you pay before coverage starts; out-of-pocket max is your yearly spending limit.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Does insurance cover elective surgeries like LASIK or cosmetic procedures?",
+    "answer": "Elective procedures like LASIK are typically excluded unless medically required.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "If I switch jobs, can I keep the same insurance plan temporarily?",
+    "answer": "Temporary continuation may be available via COBRA or state continuation programs.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "How can I find out what tier my prescription medication falls under?",
+    "answer": "Your insurer’s drug formulary should list tier levels and associated copays.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Do insurance companies require prior authorization for MRI scans?",
+    "answer": "Many procedures like MRI require prior authorization — call your plan first.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Are cancer screenings like mammograms fully covered under preventive care?",
+    "answer": "Preventive care like screenings are often 100% covered under ACA-compliant plans.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Can I purchase insurance mid-year if I lose existing coverage unexpectedly?",
+    "answer": "Loss of coverage qualifies you for a special enrollment period — apply within 60 days.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "What are premium subsidies and who qualifies under the health marketplace?",
+    "answer": "Premium subsidies reduce costs based on income and household size. Apply via the health exchange.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Does insurance cover consultations with a nutritionist or dietician?",
+    "answer": "Some plans include nutritional counseling under preventive care or chronic condition management.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Are immunizations for travel purposes included in standard plans?",
+    "answer": "Travel vaccines may not be covered unless they’re part of preventive care.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Can I pay my insurance premiums using a flexible spending account (FSA)?",
+    "answer": "FSAs typically cover eligible medical expenses, but not premiums unless specified.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Are behavioral therapy sessions for children covered by most plans?",
+    "answer": "Behavioral therapy may be covered, especially if part of an autism treatment plan.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "What’s the difference between coinsurance and copayment?",
+    "answer": "Coinsurance is a percentage, copay is a flat fee — both are cost-sharing tools.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Is genetic testing for hereditary diseases covered by insurance?",
+    "answer": "Some plans cover genetic tests if medically indicated; elective tests may not be reimbursed.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Are infertility treatments like IVF usually included in health coverage?",
+    "answer": "Coverage for infertility varies widely. Review your plan’s reproductive health benefits.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Does my insurance cover rehab programs for substance abuse recovery?",
+    "answer": "Most comprehensive plans include behavioral rehab, but coverage levels vary.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Can I still get treatment if a provider is out-of-network but closest in an emergency?",
+    "answer": "In emergencies, out-of-network treatment is usually covered as in-network.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Will my insurance reimburse for medical equipment like crutches or a wheelchair?",
+    "answer": "Durable medical equipment is commonly covered with a prescription and pre-authorization.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "How do I find which providers are in-network under my current insurance?",
+    "answer": "Use your insurer’s online provider directory or call member services.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Is palliative care or hospice care included in long-term insurance plans?",
+    "answer": "Long-term plans often include end-of-life care, but verify the details.",
+    "label": "insurance-related"
+  },
+  {
+    "question": "Can I change my insurance coverage level outside of open enrollment due to life events?",
+    "answer": "Life events like marriage or childbirth trigger special enrollment periods.",
+    "label": "insurance-related"
+  }
+]

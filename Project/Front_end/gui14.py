@@ -2,12 +2,15 @@ import json
 import locale
 import re
 import sys
+import time
+
 from PySide6.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QPushButton, QScrollArea, QSizePolicy,
     QGraphicsOpacityEffect, QTextEdit
 )
 from PySide6.QtGui import QFont, QFontMetrics, QPixmap, QKeyEvent, QPainter, QPainterPath
 from PySide6.QtCore import Qt, QTimer, QProcess
+from openai import OpenAI
 
 
 # 自定义输入框：回车发送，Shift+回车换行
@@ -34,6 +37,7 @@ class ChatBox(QWidget):
         # self.setStyleSheet("background-color: white;")
         self.initUI()
         self.model_process = None
+        self.question = None
 
     def initUI(self):
         self.setWindowTitle('AI health-consult Chatbot')
@@ -159,16 +163,24 @@ class ChatBox(QWidget):
 
         # 只在等待确认时处理“是/否”
         if self.waiting_for_confirm:
-            if message == "yes":
+            if message == "yes" or message == "Yes":
                 self.add_message("Thanks.", is_sender=False)
                 self.waiting_for_confirm = False
-            elif message == "no":
+            elif message == "no" or message == "No":
                 self.add_message(
-                    "I'm very sorry. I will improve the judgment result. Please add more keywords and re-describe.",
+                    "I'm very sorry. I will give you more related information. ",
                     is_sender=False)
+                if self.question is not None:
+                    self.add_more_info(self.question)
+                time.sleep(4)
+                self.add_message(
+                    "Do you have any other questions?",
+                    is_sender=False)
+
                 self.waiting_for_confirm = False
             else:
-                self.add_message("请输入“是”或“否”", is_sender=False)
+                self.add_message("By default, your question has been resolved. Please ask a new one.", is_sender=False)
+                self.waiting_for_confirm = False
             return
 
         self.add_message("Thinking...", is_sender=False)
@@ -268,18 +280,21 @@ class ChatBox(QWidget):
             self.model_process.kill()
             self.model_process = None
 
-        self.model_process = QProcess(self)
-        self.model_process.setProgram(sys.executable)
-        self.model_process.setArguments(['mock_model.py'])
+        try:
+            self.model_process = QProcess(self)
+            self.model_process.setProgram(sys.executable)
+            self.model_process.setArguments(['mock_model.py'])
 
-        model_handle = {
-            "user_input": user_input,
-        }
-        input_str = json.dumps(model_handle)
+            model_handle = {
+                "user_input": user_input,
+            }
+            input_str = json.dumps(model_handle)
 
-        self.model_process.readyReadStandardOutput.connect(self.handle_model_output)
-        self.model_process.started.connect(lambda: self.model_process.write((input_str + '\n').encode('utf-8')))
-        self.model_process.start()
+            self.model_process.readyReadStandardOutput.connect(self.handle_model_output)
+            self.model_process.started.connect(lambda: self.model_process.write((input_str + '\n').encode('utf-8')))
+            self.model_process.start()
+        except Exception as e:
+            print(e)
 
     def handle_model_output(self):
         if not self.model_process:
@@ -290,13 +305,45 @@ class ChatBox(QWidget):
         ask_confirm = False
         for line in output.strip().split('\n'):
             if line.strip():
-                self.add_message(line.strip(), is_sender=False)
-                # 只在“结果判定”时询问
-                if "The result is" in line:
-                    ask_confirm = True
+                try:
+                    data = json.loads(line.strip())
+                    self.question = data["user_input"]
+                except json.JSONDecodeError:
+                    self.add_message(line.strip(), is_sender=False)
+                    if "The result is" in line:
+                        ask_confirm = True
         if ask_confirm:
-            self.add_message("请问您是否认可本次结果？请输入“是”或“否”等待输入", is_sender=False)
+            self.add_message(
+                "Have your questions been resolved? If not, please reply 'No'. "
+                "We will provide more possible solutions.",
+                is_sender=False)
             self.waiting_for_confirm = True
+
+    def add_more_info(self, message):
+        KIMI_API_KEY = "sk-rgxAPpDWCjSjvhdwvr7khgETRTzKWFqDZGS1FbFx8l11BVoq"
+
+        client = OpenAI(
+            api_key=KIMI_API_KEY,
+            base_url="https://api.moonshot.cn/v1",
+        )
+        print(message)
+
+        completion = client.chat.completions.create(
+            model="moonshot-v1-8k",
+            messages=[
+                {"role": "system",
+                 "content": "你要扮演一名医疗助手，你需要根据患者的症状描述提供回答，包括但不限于：病情诊断、追问更多细节、提供健康建议。请用英文回答。"},
+                {"role": "user",
+                 "content": message}
+            ],
+            temperature=0.3,
+        )
+        answer = completion.choices[0].message.content
+        answer = answer.replace("I'm not a doctor, but ", "")
+
+        self.add_message(
+            answer,
+            is_sender=False)
 
 
 if __name__ == '__main__':

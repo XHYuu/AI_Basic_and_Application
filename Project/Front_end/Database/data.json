@@ -1,0 +1,1496 @@
+[
+  {
+    "question": "I'm concerned about my recent health insurance policy, specifically the out-of-pocket costs for my prescription medication. Will I need to pay more if I visit a specialist?",
+    "answer": "You may be responsible for a higher copay or coinsurance when visiting a specialist. Check your plan's summary of benefits.",
+    "label": "insurance-related",
+    "id": "0001"
+  },
+  {
+    "question": "My insurance provider denied my claim for a procedure that my doctor recommended due to lack of coverage. Can I appeal this decision?",
+    "answer": "Yes, you can appeal a denied claim. Contact your insurer's appeals department for the process.",
+    "label": "insurance-related",
+    "id": "0002"
+  },
+  {
+    "question": "I'm concerned about covering the out-of-network costs for my upcoming surgery. Will my insurance plan cover it?",
+    "answer": "Some plans cover out-of-network procedures partially, others don’t. Verify with your insurance provider.",
+    "label": "insurance-related",
+    "id": "0003"
+  },
+  {
+    "question": "I need help understanding my medical bill, can someone please explain the deductibles and copays on my recent MRI?",
+    "answer": "Deductibles are the amount you pay before coverage starts. Copays are fixed fees for specific services.",
+    "label": "insurance-related",
+    "id": "0004"
+  },
+  {
+    "question": "I was wondering if I can obtain a discount on my medication if I switch health insurance plans during open enrollment, but I'm not sure if my current plan will still cover my prescription.",
+    "answer": "Compare plan formularies during open enrollment to ensure continued coverage for your medication.",
+    "label": "insurance-related",
+    "id": "0005"
+  },
+  {
+    "question": "I'm concerned that my medicare plan doesn't cover all the costs of my ongoing physical therapy sessions. Can I get a second opinion from a specialist on what else I can do to reduce my out-of-pocket expenses?",
+    "answer": "Supplemental coverage or financial assistance programs may help reduce your therapy costs.",
+    "label": "insurance-related",
+    "id": "0006"
+  },
+  {
+    "question": "I want to know if our health insurance covers hospital expenses if I need an emergency surgery. I will be traveling to the US soon and I want to be prepared.",
+    "answer": "Emergency services are generally covered, but check for out-of-country exceptions or travel clauses.",
+    "label": "insurance-related",
+    "id": "0007"
+  },
+  {
+    "question": "I need help to confirm if our insurance policy covers my hospital stay for a blood test that costs 500 dollars. Does the policy cover 80% of the medical expenses, or do I need to make a separate payment for the lab test?",
+    "answer": "Coverage often depends on whether it’s inpatient or outpatient care. Review your benefits summary.",
+    "label": "insurance-related",
+    "id": "0008"
+  },
+  {
+    "question": "Does my insurance cover annual dental checkups or is that a separate dental plan?",
+    "answer": "Most general health plans do not cover dental unless you have a specific dental policy.",
+    "label": "insurance-related",
+    "id": "0009"
+  },
+  {
+    "question": "What is the difference between an HMO and PPO plan and which offers better specialist coverage?",
+    "answer": "PPOs usually offer better out-of-network access, while HMOs often require referrals.",
+    "label": "insurance-related",
+    "id": "0010"
+  },
+  {
+    "question": "Can I continue seeing my current doctor if my insurance provider changes next year?",
+    "answer": "Provider availability depends on your new plan's network. Always verify before changing.",
+    "label": "insurance-related",
+    "id": "0011"
+  },
+  {
+    "question": "What are the penalties if I miss the open enrollment period for health insurance?",
+    "answer": "Missing the deadline might leave you uninsured unless you qualify for a special enrollment period.",
+    "label": "insurance-related",
+    "id": "0012"
+  },
+  {
+    "question": "How do I check if my insurance covers mental health therapy sessions?",
+    "answer": "Mental health services are increasingly covered but vary by plan. Check your policy.",
+    "label": "insurance-related",
+    "id": "0013"
+  },
+  {
+    "question": "Are telemedicine visits covered under most insurance plans now?",
+    "answer": "Yes, telehealth is widely covered post-pandemic, though policies may differ.",
+    "label": "insurance-related",
+    "id": "0014"
+  },
+  {
+    "question": "Can I use my HSA account to pay for over-the-counter medications?",
+    "answer": "Yes, HSA funds can be used for qualified medical expenses including certain OTC meds.",
+    "label": "insurance-related",
+    "id": "0015"
+  },
+  {
+    "question": "Does my child need separate insurance or is coverage under my family plan sufficient?",
+    "answer": "Children are usually covered under family plans up to age 26, depending on the provider.",
+    "label": "insurance-related",
+    "id": "0016"
+  },
+  {
+    "question": "If I lose my job, how long will COBRA coverage last and how much does it cost?",
+    "answer": "COBRA typically lasts up to 18 months, but can be expensive without employer contributions.",
+    "label": "insurance-related",
+    "id": "0017"
+  },
+  {
+    "question": "Does my insurance cover ambulance transportation during emergencies?",
+    "answer": "Yes, ambulance rides are covered during emergencies, but check if pre-authorization is required.",
+    "label": "insurance-related",
+    "id": "0018"
+  },
+  {
+    "question": "Will my insurance pay for a second opinion if I’m unsure about a diagnosis?",
+    "answer": "Second opinions are often covered, particularly for major diagnoses or surgeries.",
+    "label": "insurance-related",
+    "id": "0019"
+  },
+  {
+    "question": "Is physical therapy covered after a sports injury under my standard health plan?",
+    "answer": "Many plans include physical therapy, though limits and pre-approvals may apply.",
+    "label": "insurance-related",
+    "id": "0020"
+  },
+  {
+    "question": "What portion of maternity expenses are covered under typical health insurance?",
+    "answer": "Maternity coverage varies, but prenatal and delivery costs are often included.",
+    "label": "insurance-related",
+    "id": "0021"
+  },
+  {
+    "question": "Are pre-existing conditions covered if I switch to a new insurance provider?",
+    "answer": "Since the ACA, pre-existing conditions are typically covered in most new plans.",
+    "label": "insurance-related",
+    "id": "0022"
+  },
+  {
+    "question": "Does insurance cover allergy testing and treatment like shots or medication?",
+    "answer": "Allergy treatments are usually covered, especially if medically necessary.",
+    "label": "insurance-related",
+    "id": "0023"
+  },
+  {
+    "question": "What is the process to file a reimbursement claim for out-of-pocket hospital visits?",
+    "answer": "You’ll need to submit documentation, such as receipts and discharge notes, for reimbursement.",
+    "label": "insurance-related",
+    "id": "0024"
+  },
+  {
+    "question": "How do copays differ between urgent care visits and ER visits?",
+    "answer": "Urgent care usually costs less than ER, depending on the network tier.",
+    "label": "insurance-related",
+    "id": "0025"
+  },
+  {
+    "question": "Does travel insurance cover medical emergencies outside of my home country?",
+    "answer": "Travel insurance policies often cover international emergencies, but confirm the fine print.",
+    "label": "insurance-related",
+    "id": "0026"
+  },
+  {
+    "question": "Is there a cap on the number of physical therapy sessions covered annually?",
+    "answer": "Check your plan for visit caps or annual limits for therapy services.",
+    "label": "insurance-related",
+    "id": "0027"
+  },
+  {
+    "question": "What are the in-network lab testing benefits vs out-of-network costs?",
+    "answer": "In-network labs are cheaper; out-of-network tests may not be fully reimbursed.",
+    "label": "insurance-related",
+    "id": "0028"
+  },
+  {
+    "question": "Can I add my elderly parent as a dependent under my employer's insurance?",
+    "answer": "Not all plans allow this — check eligibility and your employer’s rules.",
+    "label": "insurance-related",
+    "id": "0029"
+  },
+  {
+    "question": "What’s the difference between a deductible and an out-of-pocket maximum?",
+    "answer": "Deductible is what you pay before coverage starts; out-of-pocket max is your yearly spending limit.",
+    "label": "insurance-related",
+    "id": "0030"
+  },
+  {
+    "question": "Does insurance cover elective surgeries like LASIK or cosmetic procedures?",
+    "answer": "Elective procedures like LASIK are typically excluded unless medically required.",
+    "label": "insurance-related",
+    "id": "0031"
+  },
+  {
+    "question": "If I switch jobs, can I keep the same insurance plan temporarily?",
+    "answer": "Temporary continuation may be available via COBRA or state continuation programs.",
+    "label": "insurance-related",
+    "id": "0032"
+  },
+  {
+    "question": "How can I find out what tier my prescription medication falls under?",
+    "answer": "Your insurer’s drug formulary should list tier levels and associated copays.",
+    "label": "insurance-related",
+    "id": "0033"
+  },
+  {
+    "question": "Do insurance companies require prior authorization for MRI scans?",
+    "answer": "Many procedures like MRI require prior authorization — call your plan first.",
+    "label": "insurance-related",
+    "id": "0034"
+  },
+  {
+    "question": "Are cancer screenings like mammograms fully covered under preventive care?",
+    "answer": "Preventive care like screenings are often 100% covered under ACA-compliant plans.",
+    "label": "insurance-related",
+    "id": "0035"
+  },
+  {
+    "question": "Can I purchase insurance mid-year if I lose existing coverage unexpectedly?",
+    "answer": "Loss of coverage qualifies you for a special enrollment period — apply within 60 days.",
+    "label": "insurance-related",
+    "id": "0036"
+  },
+  {
+    "question": "What are premium subsidies and who qualifies under the health marketplace?",
+    "answer": "Premium subsidies reduce costs based on income and household size. Apply via the health exchange.",
+    "label": "insurance-related",
+    "id": "0037"
+  },
+  {
+    "question": "Does insurance cover consultations with a nutritionist or dietician?",
+    "answer": "Some plans include nutritional counseling under preventive care or chronic condition management.",
+    "label": "insurance-related",
+    "id": "0038"
+  },
+  {
+    "question": "Are immunizations for travel purposes included in standard plans?",
+    "answer": "Travel vaccines may not be covered unless they’re part of preventive care.",
+    "label": "insurance-related",
+    "id": "0039"
+  },
+  {
+    "question": "Can I pay my insurance premiums using a flexible spending account (FSA)?",
+    "answer": "FSAs typically cover eligible medical expenses, but not premiums unless specified.",
+    "label": "insurance-related",
+    "id": "0040"
+  },
+  {
+    "question": "Are behavioral therapy sessions for children covered by most plans?",
+    "answer": "Behavioral therapy may be covered, especially if part of an autism treatment plan.",
+    "label": "insurance-related",
+    "id": "0041"
+  },
+  {
+    "question": "What’s the difference between coinsurance and copayment?",
+    "answer": "Coinsurance is a percentage, copay is a flat fee — both are cost-sharing tools.",
+    "label": "insurance-related",
+    "id": "0042"
+  },
+  {
+    "question": "Is genetic testing for hereditary diseases covered by insurance?",
+    "answer": "Some plans cover genetic tests if medically indicated; elective tests may not be reimbursed.",
+    "label": "insurance-related",
+    "id": "0043"
+  },
+  {
+    "question": "Are infertility treatments like IVF usually included in health coverage?",
+    "answer": "Coverage for infertility varies widely. Review your plan’s reproductive health benefits.",
+    "label": "insurance-related",
+    "id": "0044"
+  },
+  {
+    "question": "Does my insurance cover rehab programs for substance abuse recovery?",
+    "answer": "Most comprehensive plans include behavioral rehab, but coverage levels vary.",
+    "label": "insurance-related",
+    "id": "0045"
+  },
+  {
+    "question": "Can I still get treatment if a provider is out-of-network but closest in an emergency?",
+    "answer": "In emergencies, out-of-network treatment is usually covered as in-network.",
+    "label": "insurance-related",
+    "id": "0046"
+  },
+  {
+    "question": "Will my insurance reimburse for medical equipment like crutches or a wheelchair?",
+    "answer": "Durable medical equipment is commonly covered with a prescription and pre-authorization.",
+    "label": "insurance-related",
+    "id": "0047"
+  },
+  {
+    "question": "How do I find which providers are in-network under my current insurance?",
+    "answer": "Use your insurer’s online provider directory or call member services.",
+    "label": "insurance-related",
+    "id": "0048"
+  },
+  {
+    "question": "Is palliative care or hospice care included in long-term insurance plans?",
+    "answer": "Long-term plans often include end-of-life care, but verify the details.",
+    "label": "insurance-related",
+    "id": "0049"
+  },
+  {
+    "question": "Can I change my insurance coverage level outside of open enrollment due to life events?",
+    "answer": "Life events like marriage or childbirth trigger special enrollment periods.",
+    "label": "insurance-related",
+    "id": "0050"
+  },
+  {
+    "question": "I've been taking 'Xanax' for anxiety for a while now, but recently I've noticed I'm getting dizzy and my hands are shaking a lot. Could it be due to the medication or something else?",
+    "answer": "Yes, dizziness and tremors can be common side effects of benzodiazepines like Xanax. It's recommended to consult your doctor for a dosage review.",
+    "label": "medication-side-effect",
+    "id": "0051"
+  },
+  {
+    "question": "I have been taking a new medication and my skin has been breaking out terribly, especially on my face and chest. Can this be a side effect of the medication?",
+    "answer": "Skin breakouts can indeed occur as a reaction to certain medications. It’s best to speak with your prescribing doctor or a dermatologist.",
+    "label": "medication-side-effect",
+    "id": "0052"
+  },
+  {
+    "question": "I am experiencing persistent headaches after starting a new medication, is there anything I can do to prevent these side effects?",
+    "answer": "Headaches are a common side effect of many medications. Talk to your doctor about adjusting the dose or trying a different drug.",
+    "label": "medication-side-effect",
+    "id": "0053"
+  },
+  {
+    "question": "Can taking ibuprofen daily while on blood thinners increase the risk of internal bleeding?",
+    "answer": "Yes, combining NSAIDs like ibuprofen with blood thinners can increase bleeding risk. Always consult your physician before combining medications.",
+    "label": "medication-side-effect",
+    "id": "0054"
+  },
+  {
+    "question": "I've been taking warfarin for the past 3 months to prevent blood clots and I've been experiencing frequent nosebleeds. Is this a side effect of the medication?",
+    "answer": "Frequent nosebleeds can be a sign of excess anticoagulation. You should report this to your doctor immediately to adjust the dose.",
+    "label": "medication-side-effect",
+    "id": "0055"
+  },
+  {
+    "question": "I've been experiencing some dizziness after taking this new medication for high blood pressure. It's been happening every day since I started the treatment.",
+    "answer": "Dizziness is a common side effect of antihypertensive medications. Make sure to rise slowly and report this symptom to your provider.",
+    "label": "medication-side-effect",
+    "id": "0056"
+  },
+  {
+    "question": "I've been taking Lipitor for high cholesterol, but I've been experiencing stomach pain and diarrhea. Could this be related to my medication?",
+    "answer": "Yes, gastrointestinal issues are reported side effects of statins like Lipitor. You may want to consult your doctor about this reaction.",
+    "label": "medication-side-effect",
+    "id": "0057"
+  },
+  {
+    "question": "I have been taking prescribed antacids for the past year, and I've noticed a recent increase in stomach pain after taking them. I'm worried it might be due to medication side effects.",
+    "answer": "Overuse of antacids can lead to rebound acid production or mask underlying issues. It’s advisable to follow up with your healthcare provider.",
+    "label": "medication-side-effect",
+    "id": "0058"
+  },
+  {
+    "question": "I've been taking paracetamol for 2 weeks, but my back pain has become worse. Could it be a side effect of the medication?",
+    "answer": "While paracetamol generally doesn’t worsen pain, it's possible the root cause is unrelated. You may want to re-evaluate your treatment.",
+    "label": "medication-side-effect",
+    "id": "0059"
+  },
+  {
+    "question": "What are the potential side effects of long-term use of proton pump inhibitors, and are there any alternative treatments for acid reflux?",
+    "answer": "Long-term use may lead to nutrient deficiencies or kidney issues. Alternatives like H2 blockers or lifestyle changes may be effective.",
+    "label": "medication-side-effect",
+    "id": "0060"
+  },
+  {
+    "question": "I've been taking acetaminophen for years to alleviate menstrual cramps, but I'm worried it may affect my kidney function. Can it contribute to kidney damage if I take it regularly?",
+    "answer": "Chronic use of high-dose acetaminophen can lead to liver or kidney issues. It's wise to use the lowest effective dose and monitor regularly.",
+    "label": "medication-side-effect",
+    "id": "0061"
+  },
+  {
+    "question": "My mother is taking Amlodipine 5mg daily for her hypertension, but lately, she has been experiencing persistent swelling in her legs and shortness of breath after taking the medication. Could you please advise on the possible causes?",
+    "answer": "Amlodipine can cause peripheral edema in some patients. The shortness of breath warrants medical evaluation to rule out heart or lung involvement.",
+    "label": "medication-side-effect",
+    "id": "0062"
+  },
+  {
+    "question": "I am concerned about the potential interactions between my medications and a new supplement I started taking. I am taking azathioprine for my rheumatoid arthritis and was prescribed a probiotic that contains alfalfa.",
+    "answer": "Some supplements like alfalfa can affect immune modulation. Discuss any new supplement with your rheumatologist or pharmacist.",
+    "label": "medication-side-effect",
+    "id": "0063"
+  },
+  {
+    "question": "I've been taking Daptomycin for my bacterial infection and I noticed I have been experiencing stomach cramps and diarrhea. Could it be a side effect of the medication?",
+    "answer": "Yes, antibiotics like Daptomycin can disrupt gut flora and cause GI symptoms. Let your physician know if symptoms persist.",
+    "label": "medication-side-effect",
+    "id": "0064"
+  },
+  {
+    "question": "I am experiencing abdominal pain and nausea after taking a new medication. What could be the cause?",
+    "answer": "Gastrointestinal side effects are common with many medications. Try taking it with food and notify your provider.",
+    "label": "medication-side-effect",
+    "id": "0065"
+  },
+  {
+    "question": "I’ve started a new antidepressant and now experience vivid dreams and trouble sleeping. Is this a known side effect?",
+    "answer": "Yes, SSRIs and other antidepressants can impact REM sleep. Discuss adjustments with your prescribing doctor.",
+    "label": "medication-side-effect",
+    "id": "0066"
+  },
+  {
+    "question": "I'm feeling mentally foggy and fatigued after taking allergy medication. Is that a normal reaction?",
+    "answer": "Some antihistamines cause drowsiness and cognitive dulling. Consider switching to a non-drowsy alternative.",
+    "label": "medication-side-effect",
+    "id": "0067"
+  },
+  {
+    "question": "After starting my blood pressure medicine, I noticed swelling in my ankles. Should I be concerned?",
+    "answer": "Ankle swelling is a known side effect of some calcium channel blockers. Your doctor may adjust your treatment.",
+    "label": "medication-side-effect",
+    "id": "0068"
+  },
+  {
+    "question": "I've been on iron supplements and started having constipation. Is this related to the supplement?",
+    "answer": "Yes, iron supplements commonly cause gastrointestinal effects like constipation. Increasing fiber or switching formulations can help.",
+    "label": "medication-side-effect",
+    "id": "0069"
+  },
+  {
+    "question": "I have ringing in my ears after starting new antibiotics. Could this be a warning sign?",
+    "answer": "Tinnitus can signal ototoxicity with certain antibiotics. Stop the medication and contact your provider immediately.",
+    "label": "medication-side-effect",
+    "id": "0070"
+  },
+  {
+    "question": "I've been taking 'Xanax' for anxiety for a while now, but recently I've noticed I'm getting dizzy and my hands are shaking a lot. Could it be due to the medication or something else?",
+    "answer": "Yes, dizziness and tremors can be common side effects of benzodiazepines like Xanax. It's recommended to consult your doctor for a dosage review.",
+    "label": "medication-side-effect",
+    "id": "0071"
+  },
+  {
+    "question": "I have been taking a new medication and my skin has been breaking out terribly, especially on my face and chest. Can this be a side effect of the medication?",
+    "answer": "Skin breakouts can indeed occur as a reaction to certain medications. It’s best to speak with your prescribing doctor or a dermatologist.",
+    "label": "medication-side-effect",
+    "id": "0072"
+  },
+  {
+    "question": "I am experiencing persistent headaches after starting a new medication, is there anything I can do to prevent these side effects?",
+    "answer": "Headaches are a common side effect of many medications. Talk to your doctor about adjusting the dose or trying a different drug.",
+    "label": "medication-side-effect",
+    "id": "0073"
+  },
+  {
+    "question": "Can taking ibuprofen daily while on blood thinners increase the risk of internal bleeding?",
+    "answer": "Yes, combining NSAIDs like ibuprofen with blood thinners can increase bleeding risk. Always consult your physician before combining medications.",
+    "label": "medication-side-effect",
+    "id": "0074"
+  },
+  {
+    "question": "I've been taking warfarin for the past 3 months to prevent blood clots and I've been experiencing frequent nosebleeds. Is this a side effect of the medication?",
+    "answer": "Frequent nosebleeds can be a sign of excess anticoagulation. You should report this to your doctor immediately to adjust the dose.",
+    "label": "medication-side-effect",
+    "id": "0075"
+  },
+  {
+    "question": "I've been experiencing some dizziness after taking this new medication for high blood pressure. It's been happening every day since I started the treatment.",
+    "answer": "Dizziness is a common side effect of antihypertensive medications. Make sure to rise slowly and report this symptom to your provider.",
+    "label": "medication-side-effect",
+    "id": "0076"
+  },
+  {
+    "question": "I've been taking Lipitor for high cholesterol, but I've been experiencing stomach pain and diarrhea. Could this be related to my medication?",
+    "answer": "Yes, gastrointestinal issues are reported side effects of statins like Lipitor. You may want to consult your doctor about this reaction.",
+    "label": "medication-side-effect",
+    "id": "0077"
+  },
+  {
+    "question": "I have been taking prescribed antacids for the past year, and I've noticed a recent increase in stomach pain after taking them. I'm worried it might be due to medication side effects.",
+    "answer": "Overuse of antacids can lead to rebound acid production or mask underlying issues. It’s advisable to follow up with your healthcare provider.",
+    "label": "medication-side-effect",
+    "id": "0078"
+  },
+  {
+    "question": "I've been taking paracetamol for 2 weeks, but my back pain has become worse. Could it be a side effect of the medication?",
+    "answer": "While paracetamol generally doesn’t worsen pain, it's possible the root cause is unrelated. You may want to re-evaluate your treatment.",
+    "label": "medication-side-effect",
+    "id": "0079"
+  },
+  {
+    "question": "What are the potential side effects of long-term use of proton pump inhibitors, and are there any alternative treatments for acid reflux?",
+    "answer": "Long-term use may lead to nutrient deficiencies or kidney issues. Alternatives like H2 blockers or lifestyle changes may be effective.",
+    "label": "medication-side-effect",
+    "id": "0080"
+  },
+  {
+    "question": "I've been taking acetaminophen for years to alleviate menstrual cramps, but I'm worried it may affect my kidney function. Can it contribute to kidney damage if I take it regularly?",
+    "answer": "Chronic use of high-dose acetaminophen can lead to liver or kidney issues. It's wise to use the lowest effective dose and monitor regularly.",
+    "label": "medication-side-effect",
+    "id": "0081"
+  },
+  {
+    "question": "My mother is taking Amlodipine 5mg daily for her hypertension, but lately, she has been experiencing persistent swelling in her legs and shortness of breath after taking the medication. Could you please advise on the possible causes?",
+    "answer": "Amlodipine can cause peripheral edema in some patients. The shortness of breath warrants medical evaluation to rule out heart or lung involvement.",
+    "label": "medication-side-effect",
+    "id": "0082"
+  },
+  {
+    "question": "I am concerned about the potential interactions between my medications and a new supplement I started taking. I am taking azathioprine for my rheumatoid arthritis and was prescribed a probiotic that contains alfalfa.",
+    "answer": "Some supplements like alfalfa can affect immune modulation. Discuss any new supplement with your rheumatologist or pharmacist.",
+    "label": "medication-side-effect",
+    "id": "0083"
+  },
+  {
+    "question": "I've been taking Daptomycin for my bacterial infection and I noticed I have been experiencing stomach cramps and diarrhea. Could it be a side effect of the medication?",
+    "answer": "Yes, antibiotics like Daptomycin can disrupt gut flora and cause GI symptoms. Let your physician know if symptoms persist.",
+    "label": "medication-side-effect",
+    "id": "0084"
+  },
+  {
+    "question": "I am experiencing abdominal pain and nausea after taking a new medication. What could be the cause?",
+    "answer": "Gastrointestinal side effects are common with many medications. Try taking it with food and notify your provider.",
+    "label": "medication-side-effect",
+    "id": "0085"
+  },
+  {
+    "question": "I’ve started a new antidepressant and now experience vivid dreams and trouble sleeping. Is this a known side effect?",
+    "answer": "Yes, SSRIs and other antidepressants can impact REM sleep. Discuss adjustments with your prescribing doctor.",
+    "label": "medication-side-effect",
+    "id": "0086"
+  },
+  {
+    "question": "I'm feeling mentally foggy and fatigued after taking allergy medication. Is that a normal reaction?",
+    "answer": "Some antihistamines cause drowsiness and cognitive dulling. Consider switching to a non-drowsy alternative.",
+    "label": "medication-side-effect",
+    "id": "0087"
+  },
+  {
+    "question": "After starting my blood pressure medicine, I noticed swelling in my ankles. Should I be concerned?",
+    "answer": "Ankle swelling is a known side effect of some calcium channel blockers. Your doctor may adjust your treatment.",
+    "label": "medication-side-effect",
+    "id": "0088"
+  },
+  {
+    "question": "I've been on iron supplements and started having constipation. Is this related to the supplement?",
+    "answer": "Yes, iron supplements commonly cause gastrointestinal effects like constipation. Increasing fiber or switching formulations can help.",
+    "label": "medication-side-effect",
+    "id": "0089"
+  },
+  {
+    "question": "I have ringing in my ears after starting new antibiotics. Could this be a warning sign?",
+    "answer": "Tinnitus can signal ototoxicity with certain antibiotics. Stop the medication and contact your provider immediately.",
+    "label": "medication-side-effect",
+    "id": "0090"
+  },
+  {
+    "question": "I've been taking 'Xanax' for anxiety for a while now, but recently I've noticed I'm getting dizzy and my hands are shaking a lot. Could it be due to the medication or something else?",
+    "answer": "Yes, dizziness and tremors can be common side effects of benzodiazepines like Xanax. It's recommended to consult your doctor for a dosage review.",
+    "label": "medication-side-effect",
+    "id": "0091"
+  },
+  {
+    "question": "I have been taking a new medication and my skin has been breaking out terribly, especially on my face and chest. Can this be a side effect of the medication?",
+    "answer": "Skin breakouts can indeed occur as a reaction to certain medications. It’s best to speak with your prescribing doctor or a dermatologist.",
+    "label": "medication-side-effect",
+    "id": "0092"
+  },
+  {
+    "question": "I am experiencing persistent headaches after starting a new medication, is there anything I can do to prevent these side effects?",
+    "answer": "Headaches are a common side effect of many medications. Talk to your doctor about adjusting the dose or trying a different drug.",
+    "label": "medication-side-effect",
+    "id": "0093"
+  },
+  {
+    "question": "Can taking ibuprofen daily while on blood thinners increase the risk of internal bleeding?",
+    "answer": "Yes, combining NSAIDs like ibuprofen with blood thinners can increase bleeding risk. Always consult your physician before combining medications.",
+    "label": "medication-side-effect",
+    "id": "0094"
+  },
+  {
+    "question": "I've been taking warfarin for the past 3 months to prevent blood clots and I've been experiencing frequent nosebleeds. Is this a side effect of the medication?",
+    "answer": "Frequent nosebleeds can be a sign of excess anticoagulation. You should report this to your doctor immediately to adjust the dose.",
+    "label": "medication-side-effect",
+    "id": "0095"
+  },
+  {
+    "question": "I've been experiencing some dizziness after taking this new medication for high blood pressure. It's been happening every day since I started the treatment.",
+    "answer": "Dizziness is a common side effect of antihypertensive medications. Make sure to rise slowly and report this symptom to your provider.",
+    "label": "medication-side-effect",
+    "id": "0096"
+  },
+  {
+    "question": "I've been taking Lipitor for high cholesterol, but I've been experiencing stomach pain and diarrhea. Could this be related to my medication?",
+    "answer": "Yes, gastrointestinal issues are reported side effects of statins like Lipitor. You may want to consult your doctor about this reaction.",
+    "label": "medication-side-effect",
+    "id": "0097"
+  },
+  {
+    "question": "I have been taking prescribed antacids for the past year, and I've noticed a recent increase in stomach pain after taking them. I'm worried it might be due to medication side effects.",
+    "answer": "Overuse of antacids can lead to rebound acid production or mask underlying issues. It’s advisable to follow up with your healthcare provider.",
+    "label": "medication-side-effect",
+    "id": "0098"
+  },
+  {
+    "question": "I've been taking paracetamol for 2 weeks, but my back pain has become worse. Could it be a side effect of the medication?",
+    "answer": "While paracetamol generally doesn’t worsen pain, it's possible the root cause is unrelated. You may want to re-evaluate your treatment.",
+    "label": "medication-side-effect",
+    "id": "0099"
+  },
+  {
+    "question": "What are the potential side effects of long-term use of proton pump inhibitors, and are there any alternative treatments for acid reflux?",
+    "answer": "Long-term use may lead to nutrient deficiencies or kidney issues. Alternatives like H2 blockers or lifestyle changes may be effective.",
+    "label": "medication-side-effect",
+    "id": "0100"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use",
+    "id": "0101"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use",
+    "id": "0102"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use",
+    "id": "0103"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use",
+    "id": "0104"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use",
+    "id": "0105"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use",
+    "id": "0106"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use",
+    "id": "0107"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use",
+    "id": "0108"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use",
+    "id": "0109"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use",
+    "id": "0110"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use",
+    "id": "0111"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use",
+    "id": "0112"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use",
+    "id": "0113"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use",
+    "id": "0114"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use",
+    "id": "0115"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use",
+    "id": "0116"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use",
+    "id": "0117"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use",
+    "id": "0118"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use",
+    "id": "0119"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use",
+    "id": "0120"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use",
+    "id": "0121"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use",
+    "id": "0122"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use",
+    "id": "0123"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use",
+    "id": "0124"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use",
+    "id": "0125"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use",
+    "id": "0126"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use",
+    "id": "0127"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use",
+    "id": "0128"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use",
+    "id": "0129"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use",
+    "id": "0130"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use",
+    "id": "0131"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use",
+    "id": "0132"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use",
+    "id": "0133"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use",
+    "id": "0134"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use",
+    "id": "0135"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use",
+    "id": "0136"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use",
+    "id": "0137"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use",
+    "id": "0138"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use",
+    "id": "0139"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use",
+    "id": "0140"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use",
+    "id": "0141"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use",
+    "id": "0142"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use",
+    "id": "0143"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use",
+    "id": "0144"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use",
+    "id": "0145"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use",
+    "id": "0146"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use",
+    "id": "0147"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use",
+    "id": "0148"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use",
+    "id": "0149"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use",
+    "id": "0150"
+  },
+  {
+    "question": "I am experiencing symptoms of mild fever, headache, and body aches. I recently took a trip to an area with high risk of Lyme disease. Should I start taking antibiotics?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0151"
+  },
+  {
+    "question": "I've been experiencing a rash on my skin for the past week. It's red, itchy, and circular. I've tried applying hydrocortisone cream but it doesn't seem to be helping. What could be the cause of this rash and what should I do?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0152"
+  },
+  {
+    "question": "I'm feeling really unwell, I have a fever of 38 degrees Celsius and severe chest pain when I cough. I'm also experiencing shortness of breath. I'm worried I might have pneumonia or some kind of respiratory infection.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0153"
+  },
+  {
+    "question": "I have been experiencing sharp pains in my left side of the chest that started yesterday. They occur every 10 minutes and last for about 2 minutes.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0154"
+  },
+  {
+    "question": "My elbow has been painful for a few weeks. It hurts more when I bend my arm or move it in certain directions. Sometimes, I feel like I've twisted it wrong. I played basketball last weekend, but I've had this pain for months before that.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0155"
+  },
+  {
+    "question": "I have been experiencing muscle cramps and weakness in my arms and legs for the past few weeks. I am concerned that I may have a condition that affects my nerves. Should I be worried about developing multiple sclerosis?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0156"
+  },
+  {
+    "question": "I am experiencing severe chest pain and difficulty breathing after tripping on the stairs. I am in New York.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0157"
+  },
+  {
+    "question": "Patient has been experiencing severe chest pain and difficulty breathing for the past 2 hours. The patient is a 45-year-old male, non-smoker, with a history of hypertension.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0158"
+  },
+  {
+    "question": "I have been experiencing a high fever and body aches for the past 3 days. My throat is also severely sore and I have a dry cough. I've been feeling tired and just want to go back to bed.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0159"
+  },
+  {
+    "question": "My ear feels like it's plugged and sounds like there's a lot of pressure inside. Occasionally, my throat feels scratchy and sore.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0160"
+  },
+  {
+    "question": "I'm experiencing symptoms of shortness of breath, chest pain and extreme fatigue after a recent flu infection. I'm worried that I might have developed pneumonia. Can you please advise me on the best course of action to take?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0161"
+  },
+  {
+    "question": "I'm experiencing severe chest pain and shortness of breath after taking my medication for high blood pressure. I'm worried about my heart attack risk. Can I change my medication to something safer?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0162"
+  },
+  {
+    "question": "I am experiencing chest pain and shortness of breath. I've been taking ibuprofen for the past 24 hours, but my symptoms have not improved. Should I seek immediate medical attention?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0163"
+  },
+  {
+    "question": "I have been experiencing recurring headaches and I am concerned that it might be related to my diet. Can I discuss with my doctor the potential impact of too much caffeine and sugar on my body?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0164"
+  },
+  {
+    "question": "I'm experiencing persistent back pain after lifting heavy boxes at work. I have tried stretching and rest, but it persists. Can you advise on the best course of action?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0165"
+  },
+  {
+    "question": "I've been experiencing severe headaches and sensitivity to light for the past week. My doctor prescribed me medication for migraines, but it's not providing any relief. What could be the underlying cause of my symptoms?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0166"
+  },
+  {
+    "question": "I've been experiencing severe vomiting and diarrhea for the past 24 hours, along with a low-grade fever. I've been on antibiotics for a sinus infection for the past week, but I'm getting worried that the symptoms may be connected. What could be the possible causes?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0167"
+  },
+  {
+    "question": "I have been experiencing severe chest pain and difficulty breathing after lifting heavy objects. What can I do to alleviate this pain?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0168"
+  },
+  {
+    "question": "The patient has been experiencing recurring episodes of sharp pains in the left side of her head, accompanied by sensitivity to light and sounds, and a sudden, severe headache when waking up in the morning. She also reports a history of similar episodes over the past few months.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0169"
+  },
+  {
+    "question": "I'm experiencing chest pain after eating a heavy meal, I also had a family history of heart disease, is there anything that could be causing this?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0170"
+  },
+  {
+    "question": "I've recently started experiencing joint pain and stiffness, especially after physical activities. I was wondering if there's any way to prevent this from happening again. Have you heard of anything that might help with joint health?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0171"
+  },
+  {
+    "question": "I've been experiencing recurring episodes of fatigue and shortness of breath after exertion, which seem to be worse in the morning.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0172"
+  },
+  {
+    "question": "My grandmother is experiencing severe chest pains after a recent fall and is now having trouble breathing. What are the symptoms and possible causes of this condition?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0173"
+  },
+  {
+    "question": "My arm hurts when I lift it above my head and move it to the side, it's a sharp pain and my arm feels tired after, my doctor said something about inflammation but I'm not sure what it means, should I take any medication for it?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0174"
+  },
+  {
+    "question": "The patient is experiencing a sudden severe headache, vomiting, and sensitivity to light. They have been feeling unwell for the past 24 hours and have a history of migraines.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0175"
+  },
+  {
+    "question": "I've been experiencing burning sensations when I urinate and a slight pressure in my lower back. Could this be a kidney stone?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0176"
+  },
+  {
+    "question": "I've been experiencing persistent fatigue and headaches after my recent surgery. What could be the reason behind it?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0177"
+  },
+  {
+    "question": "Patient has been experiencing persistent pain in her left knee after jogging, mainly at the posterior aspect.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0178"
+  },
+  {
+    "question": "I've been experiencing constant headaches and fatigue for the past few weeks. My temperature is 38.5°C. I'm worried I might have urinary tract infection or bronchitis.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0179"
+  },
+  {
+    "question": "My mom has been experiencing chest discomfort when she walks uphill, which is sometimes accompanied by a shortness of breath and a pain in her arm. It happens every time she goes for a longer walk and stops once she rests.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0180"
+  },
+  {
+    "question": "I've been experiencing some fatigue and body aches. Should I get tested for something like mono or something else?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0181"
+  },
+  {
+    "question": "A 35-year-old woman is experiencing fatigue, shortness of breath, and a persistent cough, which worsens at night. She has a family history of heart disease and high blood pressure. She is a non-smoker and does not drink excessively. What could be the cause of her symptoms?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0182"
+  },
+  {
+    "question": "I'm experiencing symptoms like fever, headache, and fatigue. I went to the doctor and she gave me a shot and prescribed some medication. I want to know if this is a common illness in summer.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0183"
+  },
+  {
+    "question": "The patient reports experiencing sudden severe headache, loss of vision and difficulty speaking. It started after a minor accident on the weekend.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0184"
+  },
+  {
+    "question": "I have been experiencing persistent chest pain when I exercise and shortness of breath after eating spicy food. Could it be related to a heart condition?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0185"
+  },
+  {
+    "question": "I'm experiencing severe chest pain and difficulty breathing. Can I schedule an appointment with my cardiologist?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0186"
+  },
+  {
+    "question": "I'm experiencing a painful and swollen ankle after a sports game yesterday. I've tried putting ice on it and elevating it, but the pain persists. What could be the possible causes and how do I treat it?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0187"
+  },
+  {
+    "question": "I'm experiencing chronic headaches and dizziness, and I was wondering if it could be related to my high blood pressure.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0188"
+  },
+  {
+    "question": "I've been feeling exhausted lately and I have a hard time sleeping. I'm 35 years old and have been experiencing shortness of breath after minor exercise. I'm worried it might be related to my high blood pressure.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description",
+    "id": "0189"
+  },
+  {
+    "question": "What are the latest developments in COVID-19 vaccination research? Should I get vaccinated if I'm in my mid-30s and healthy?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0190"
+  },
+  {
+    "question": "The new pediatric flu vaccine is reported to be highly effective in preventing cases of flu among children. Is it safe for my 7-year-old to get the shot?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0191"
+  },
+  {
+    "question": "I am interested in learning about how often I should get vaccinated against the flu to prevent illness during the winter months.",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0192"
+  },
+  {
+    "question": "I'm planning a trip to South America and I was wondering if it's a good idea to get vaccinated against yellow fever before traveling to certain countries.",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0193"
+  },
+  {
+    "question": "Recently, there have been numerous cases of flu outbreaks in many countries. Some people are worried about getting vaccinated, and others are worried that their immune systems are vulnerable to the virus. What are the risks associated with delayed vaccination in pregnant women?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0194"
+  },
+  {
+    "question": "I am planning to get my vaccinations updated before traveling to a third-world country. What should I get and when should I get it?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0195"
+  },
+  {
+    "question": "I am planning to travel to Europe next month. What are the recommended vaccinations for travel to Europe during summer?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0196"
+  },
+  {
+    "question": "What are the recommended ages for the COVID-19 vaccine boosters?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0197"
+  },
+  {
+    "question": "What is the recommended dosage for the COVID-19 vaccine for children under the age of 12?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0198"
+  },
+  {
+    "question": "I would like to know what vaccinations are available for preventing the flu virus this year and any recommendations for individuals with a weakened immune system.",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0199"
+  },
+  {
+    "question": "Is it safe to receive the flu vaccine while breastfeeding?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0200"
+  },
+  {
+    "question": "What are the potential side effects of the HPV vaccine for teenagers?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0201"
+  },
+  {
+    "question": "If I had COVID-19 recently, how long should I wait before getting vaccinated?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0202"
+  },
+  {
+    "question": "Should elderly individuals receive the pneumonia vaccine annually?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0203"
+  },
+  {
+    "question": "What vaccines are recommended before starting college?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0204"
+  },
+  {
+    "question": "Can I receive the COVID-19 booster and flu shot at the same time?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0205"
+  },
+  {
+    "question": "Is it necessary to get vaccinated for measles if I had it as a child?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0206"
+  },
+  {
+    "question": "What are the contraindications for receiving the shingles vaccine?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0207"
+  },
+  {
+    "question": "How long does the tetanus vaccine provide protection?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0208"
+  },
+  {
+    "question": "Is there a difference between the flu mist and the flu shot?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0209"
+  },
+  {
+    "question": "Can people with autoimmune diseases receive mRNA vaccines safely?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0210"
+  },
+  {
+    "question": "What vaccines are required for immigration medical exams?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0211"
+  },
+  {
+    "question": "What is the effectiveness of the RSV vaccine in older adults?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0212"
+  },
+  {
+    "question": "Do I need to get the hepatitis A vaccine for international travel?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0213"
+  },
+  {
+    "question": "When should children receive their MMR vaccine doses?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0214"
+  },
+  {
+    "question": "Is it safe to delay childhood vaccinations due to mild illness?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0215"
+  },
+  {
+    "question": "Can people with egg allergies safely receive the flu vaccine?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0216"
+  },
+  {
+    "question": "Should transplant patients receive live or inactivated vaccines?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0217"
+  },
+  {
+    "question": "Are there any new vaccines recommended for adults in 2024?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0218"
+  },
+  {
+    "question": "How long should I wait between two different vaccine types?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0219"
+  },
+  {
+    "question": "What is the best time of year to receive the flu vaccine?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0220"
+  },
+  {
+    "question": "Does getting multiple vaccines at once weaken the immune system?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0221"
+  },
+  {
+    "question": "Are booster vaccines necessary for tetanus after injury?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0222"
+  },
+  {
+    "question": "What are the risks of skipping childhood immunizations?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0223"
+  },
+  {
+    "question": "Should cancer patients undergoing chemotherapy be vaccinated?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0224"
+  },
+  {
+    "question": "Are travel vaccines covered by most insurance plans?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0225"
+  },
+  {
+    "question": "How can I find out which vaccines I've received in the past?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0226"
+  },
+  {
+    "question": "Is it recommended to receive a booster for hepatitis B?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0227"
+  },
+  {
+    "question": "Can I get vaccinated while taking antibiotics?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0228"
+  },
+  {
+    "question": "What vaccines are safe during pregnancy?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0229"
+  },
+  {
+    "question": "Do international students need to show proof of vaccination?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0230"
+  },
+  {
+    "question": "Why do some people need a second dose of the COVID-19 vaccine?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0231"
+  },
+  {
+    "question": "Are there side effects when combining vaccines in one appointment?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0232"
+  },
+  {
+    "question": "How do mRNA vaccines differ from traditional vaccines?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0233"
+  },
+  {
+    "question": "Should individuals with asthma get the flu vaccine annually?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0234"
+  },
+  {
+    "question": "What vaccines should healthcare workers receive regularly?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0235"
+  },
+  {
+    "question": "Are yellow fever vaccine certificates still required for travel?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0236"
+  },
+  {
+    "question": "How long does it take for immunity to build after vaccination?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0237"
+  },
+  {
+    "question": "Can I get vaccinated if I have a cold or mild fever?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0238"
+  },
+  {
+    "question": "Is the COVID-19 nasal spray vaccine available yet?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0239"
+  },
+  {
+    "question": "Should people who had COVID-19 still get vaccinated?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0240"
+  },
+  {
+    "question": "How effective is the monkeypox vaccine?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0241"
+  },
+  {
+    "question": "Are there vaccines available for travelers to Africa?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0242"
+  },
+  {
+    "question": "Should people with diabetes get more frequent vaccines?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0243"
+  },
+  {
+    "question": "Is it safe to get vaccinated after recovering from surgery?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0244"
+  },
+  {
+    "question": "How are vaccines tested for safety before public release?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0245"
+  },
+  {
+    "question": "What are the most important childhood vaccines?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0246"
+  },
+  {
+    "question": "Can I receive a booster if I missed my scheduled dose?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0247"
+  },
+  {
+    "question": "Why are some vaccines given in multiple doses?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0248"
+  },
+  {
+    "question": "Do vaccines contain harmful ingredients like mercury?",
+    "answer": "Please consult with your healthcare provider or local CDC guidelines for up-to-date vaccine recommendations based on your age, health condition, and travel plans.",
+    "label": "vaccine-related",
+    "id": "0249"
+  }
+]

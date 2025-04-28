@@ -1,0 +1,252 @@
+[
+  {
+    "question": "I've been taking 'Xanax' for anxiety for a while now, but recently I've noticed I'm getting dizzy and my hands are shaking a lot. Could it be due to the medication or something else?",
+    "answer": "Yes, dizziness and tremors can be common side effects of benzodiazepines like Xanax. It's recommended to consult your doctor for a dosage review.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I have been taking a new medication and my skin has been breaking out terribly, especially on my face and chest. Can this be a side effect of the medication?",
+    "answer": "Skin breakouts can indeed occur as a reaction to certain medications. It’s best to speak with your prescribing doctor or a dermatologist.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I am experiencing persistent headaches after starting a new medication, is there anything I can do to prevent these side effects?",
+    "answer": "Headaches are a common side effect of many medications. Talk to your doctor about adjusting the dose or trying a different drug.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "Can taking ibuprofen daily while on blood thinners increase the risk of internal bleeding?",
+    "answer": "Yes, combining NSAIDs like ibuprofen with blood thinners can increase bleeding risk. Always consult your physician before combining medications.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking warfarin for the past 3 months to prevent blood clots and I've been experiencing frequent nosebleeds. Is this a side effect of the medication?",
+    "answer": "Frequent nosebleeds can be a sign of excess anticoagulation. You should report this to your doctor immediately to adjust the dose.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been experiencing some dizziness after taking this new medication for high blood pressure. It's been happening every day since I started the treatment.",
+    "answer": "Dizziness is a common side effect of antihypertensive medications. Make sure to rise slowly and report this symptom to your provider.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking Lipitor for high cholesterol, but I've been experiencing stomach pain and diarrhea. Could this be related to my medication?",
+    "answer": "Yes, gastrointestinal issues are reported side effects of statins like Lipitor. You may want to consult your doctor about this reaction.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I have been taking prescribed antacids for the past year, and I've noticed a recent increase in stomach pain after taking them. I'm worried it might be due to medication side effects.",
+    "answer": "Overuse of antacids can lead to rebound acid production or mask underlying issues. It’s advisable to follow up with your healthcare provider.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking paracetamol for 2 weeks, but my back pain has become worse. Could it be a side effect of the medication?",
+    "answer": "While paracetamol generally doesn’t worsen pain, it's possible the root cause is unrelated. You may want to re-evaluate your treatment.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "What are the potential side effects of long-term use of proton pump inhibitors, and are there any alternative treatments for acid reflux?",
+    "answer": "Long-term use may lead to nutrient deficiencies or kidney issues. Alternatives like H2 blockers or lifestyle changes may be effective.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking acetaminophen for years to alleviate menstrual cramps, but I'm worried it may affect my kidney function. Can it contribute to kidney damage if I take it regularly?",
+    "answer": "Chronic use of high-dose acetaminophen can lead to liver or kidney issues. It's wise to use the lowest effective dose and monitor regularly.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "My mother is taking Amlodipine 5mg daily for her hypertension, but lately, she has been experiencing persistent swelling in her legs and shortness of breath after taking the medication. Could you please advise on the possible causes?",
+    "answer": "Amlodipine can cause peripheral edema in some patients. The shortness of breath warrants medical evaluation to rule out heart or lung involvement.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I am concerned about the potential interactions between my medications and a new supplement I started taking. I am taking azathioprine for my rheumatoid arthritis and was prescribed a probiotic that contains alfalfa.",
+    "answer": "Some supplements like alfalfa can affect immune modulation. Discuss any new supplement with your rheumatologist or pharmacist.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking Daptomycin for my bacterial infection and I noticed I have been experiencing stomach cramps and diarrhea. Could it be a side effect of the medication?",
+    "answer": "Yes, antibiotics like Daptomycin can disrupt gut flora and cause GI symptoms. Let your physician know if symptoms persist.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I am experiencing abdominal pain and nausea after taking a new medication. What could be the cause?",
+    "answer": "Gastrointestinal side effects are common with many medications. Try taking it with food and notify your provider.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I’ve started a new antidepressant and now experience vivid dreams and trouble sleeping. Is this a known side effect?",
+    "answer": "Yes, SSRIs and other antidepressants can impact REM sleep. Discuss adjustments with your prescribing doctor.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I'm feeling mentally foggy and fatigued after taking allergy medication. Is that a normal reaction?",
+    "answer": "Some antihistamines cause drowsiness and cognitive dulling. Consider switching to a non-drowsy alternative.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "After starting my blood pressure medicine, I noticed swelling in my ankles. Should I be concerned?",
+    "answer": "Ankle swelling is a known side effect of some calcium channel blockers. Your doctor may adjust your treatment.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been on iron supplements and started having constipation. Is this related to the supplement?",
+    "answer": "Yes, iron supplements commonly cause gastrointestinal effects like constipation. Increasing fiber or switching formulations can help.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I have ringing in my ears after starting new antibiotics. Could this be a warning sign?",
+    "answer": "Tinnitus can signal ototoxicity with certain antibiotics. Stop the medication and contact your provider immediately.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking 'Xanax' for anxiety for a while now, but recently I've noticed I'm getting dizzy and my hands are shaking a lot. Could it be due to the medication or something else?",
+    "answer": "Yes, dizziness and tremors can be common side effects of benzodiazepines like Xanax. It's recommended to consult your doctor for a dosage review.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I have been taking a new medication and my skin has been breaking out terribly, especially on my face and chest. Can this be a side effect of the medication?",
+    "answer": "Skin breakouts can indeed occur as a reaction to certain medications. It’s best to speak with your prescribing doctor or a dermatologist.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I am experiencing persistent headaches after starting a new medication, is there anything I can do to prevent these side effects?",
+    "answer": "Headaches are a common side effect of many medications. Talk to your doctor about adjusting the dose or trying a different drug.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "Can taking ibuprofen daily while on blood thinners increase the risk of internal bleeding?",
+    "answer": "Yes, combining NSAIDs like ibuprofen with blood thinners can increase bleeding risk. Always consult your physician before combining medications.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking warfarin for the past 3 months to prevent blood clots and I've been experiencing frequent nosebleeds. Is this a side effect of the medication?",
+    "answer": "Frequent nosebleeds can be a sign of excess anticoagulation. You should report this to your doctor immediately to adjust the dose.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been experiencing some dizziness after taking this new medication for high blood pressure. It's been happening every day since I started the treatment.",
+    "answer": "Dizziness is a common side effect of antihypertensive medications. Make sure to rise slowly and report this symptom to your provider.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking Lipitor for high cholesterol, but I've been experiencing stomach pain and diarrhea. Could this be related to my medication?",
+    "answer": "Yes, gastrointestinal issues are reported side effects of statins like Lipitor. You may want to consult your doctor about this reaction.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I have been taking prescribed antacids for the past year, and I've noticed a recent increase in stomach pain after taking them. I'm worried it might be due to medication side effects.",
+    "answer": "Overuse of antacids can lead to rebound acid production or mask underlying issues. It’s advisable to follow up with your healthcare provider.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking paracetamol for 2 weeks, but my back pain has become worse. Could it be a side effect of the medication?",
+    "answer": "While paracetamol generally doesn’t worsen pain, it's possible the root cause is unrelated. You may want to re-evaluate your treatment.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "What are the potential side effects of long-term use of proton pump inhibitors, and are there any alternative treatments for acid reflux?",
+    "answer": "Long-term use may lead to nutrient deficiencies or kidney issues. Alternatives like H2 blockers or lifestyle changes may be effective.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking acetaminophen for years to alleviate menstrual cramps, but I'm worried it may affect my kidney function. Can it contribute to kidney damage if I take it regularly?",
+    "answer": "Chronic use of high-dose acetaminophen can lead to liver or kidney issues. It's wise to use the lowest effective dose and monitor regularly.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "My mother is taking Amlodipine 5mg daily for her hypertension, but lately, she has been experiencing persistent swelling in her legs and shortness of breath after taking the medication. Could you please advise on the possible causes?",
+    "answer": "Amlodipine can cause peripheral edema in some patients. The shortness of breath warrants medical evaluation to rule out heart or lung involvement.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I am concerned about the potential interactions between my medications and a new supplement I started taking. I am taking azathioprine for my rheumatoid arthritis and was prescribed a probiotic that contains alfalfa.",
+    "answer": "Some supplements like alfalfa can affect immune modulation. Discuss any new supplement with your rheumatologist or pharmacist.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking Daptomycin for my bacterial infection and I noticed I have been experiencing stomach cramps and diarrhea. Could it be a side effect of the medication?",
+    "answer": "Yes, antibiotics like Daptomycin can disrupt gut flora and cause GI symptoms. Let your physician know if symptoms persist.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I am experiencing abdominal pain and nausea after taking a new medication. What could be the cause?",
+    "answer": "Gastrointestinal side effects are common with many medications. Try taking it with food and notify your provider.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I’ve started a new antidepressant and now experience vivid dreams and trouble sleeping. Is this a known side effect?",
+    "answer": "Yes, SSRIs and other antidepressants can impact REM sleep. Discuss adjustments with your prescribing doctor.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I'm feeling mentally foggy and fatigued after taking allergy medication. Is that a normal reaction?",
+    "answer": "Some antihistamines cause drowsiness and cognitive dulling. Consider switching to a non-drowsy alternative.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "After starting my blood pressure medicine, I noticed swelling in my ankles. Should I be concerned?",
+    "answer": "Ankle swelling is a known side effect of some calcium channel blockers. Your doctor may adjust your treatment.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been on iron supplements and started having constipation. Is this related to the supplement?",
+    "answer": "Yes, iron supplements commonly cause gastrointestinal effects like constipation. Increasing fiber or switching formulations can help.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I have ringing in my ears after starting new antibiotics. Could this be a warning sign?",
+    "answer": "Tinnitus can signal ototoxicity with certain antibiotics. Stop the medication and contact your provider immediately.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking 'Xanax' for anxiety for a while now, but recently I've noticed I'm getting dizzy and my hands are shaking a lot. Could it be due to the medication or something else?",
+    "answer": "Yes, dizziness and tremors can be common side effects of benzodiazepines like Xanax. It's recommended to consult your doctor for a dosage review.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I have been taking a new medication and my skin has been breaking out terribly, especially on my face and chest. Can this be a side effect of the medication?",
+    "answer": "Skin breakouts can indeed occur as a reaction to certain medications. It’s best to speak with your prescribing doctor or a dermatologist.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I am experiencing persistent headaches after starting a new medication, is there anything I can do to prevent these side effects?",
+    "answer": "Headaches are a common side effect of many medications. Talk to your doctor about adjusting the dose or trying a different drug.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "Can taking ibuprofen daily while on blood thinners increase the risk of internal bleeding?",
+    "answer": "Yes, combining NSAIDs like ibuprofen with blood thinners can increase bleeding risk. Always consult your physician before combining medications.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking warfarin for the past 3 months to prevent blood clots and I've been experiencing frequent nosebleeds. Is this a side effect of the medication?",
+    "answer": "Frequent nosebleeds can be a sign of excess anticoagulation. You should report this to your doctor immediately to adjust the dose.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been experiencing some dizziness after taking this new medication for high blood pressure. It's been happening every day since I started the treatment.",
+    "answer": "Dizziness is a common side effect of antihypertensive medications. Make sure to rise slowly and report this symptom to your provider.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking Lipitor for high cholesterol, but I've been experiencing stomach pain and diarrhea. Could this be related to my medication?",
+    "answer": "Yes, gastrointestinal issues are reported side effects of statins like Lipitor. You may want to consult your doctor about this reaction.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I have been taking prescribed antacids for the past year, and I've noticed a recent increase in stomach pain after taking them. I'm worried it might be due to medication side effects.",
+    "answer": "Overuse of antacids can lead to rebound acid production or mask underlying issues. It’s advisable to follow up with your healthcare provider.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "I've been taking paracetamol for 2 weeks, but my back pain has become worse. Could it be a side effect of the medication?",
+    "answer": "While paracetamol generally doesn’t worsen pain, it's possible the root cause is unrelated. You may want to re-evaluate your treatment.",
+    "label": "medication-side-effect"
+  },
+  {
+    "question": "What are the potential side effects of long-term use of proton pump inhibitors, and are there any alternative treatments for acid reflux?",
+    "answer": "Long-term use may lead to nutrient deficiencies or kidney issues. Alternatives like H2 blockers or lifestyle changes may be effective.",
+    "label": "medication-side-effect"
+  }
+]

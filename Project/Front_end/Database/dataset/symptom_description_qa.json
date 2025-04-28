@@ -1,0 +1,197 @@
+[
+  {
+    "question": "I am experiencing symptoms of mild fever, headache, and body aches. I recently took a trip to an area with high risk of Lyme disease. Should I start taking antibiotics?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been experiencing a rash on my skin for the past week. It's red, itchy, and circular. I've tried applying hydrocortisone cream but it doesn't seem to be helping. What could be the cause of this rash and what should I do?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm feeling really unwell, I have a fever of 38 degrees Celsius and severe chest pain when I cough. I'm also experiencing shortness of breath. I'm worried I might have pneumonia or some kind of respiratory infection.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I have been experiencing sharp pains in my left side of the chest that started yesterday. They occur every 10 minutes and last for about 2 minutes.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "My elbow has been painful for a few weeks. It hurts more when I bend my arm or move it in certain directions. Sometimes, I feel like I've twisted it wrong. I played basketball last weekend, but I've had this pain for months before that.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I have been experiencing muscle cramps and weakness in my arms and legs for the past few weeks. I am concerned that I may have a condition that affects my nerves. Should I be worried about developing multiple sclerosis?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I am experiencing severe chest pain and difficulty breathing after tripping on the stairs. I am in New York.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "Patient has been experiencing severe chest pain and difficulty breathing for the past 2 hours. The patient is a 45-year-old male, non-smoker, with a history of hypertension.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I have been experiencing a high fever and body aches for the past 3 days. My throat is also severely sore and I have a dry cough. I've been feeling tired and just want to go back to bed.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "My ear feels like it's plugged and sounds like there's a lot of pressure inside. Occasionally, my throat feels scratchy and sore.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm experiencing symptoms of shortness of breath, chest pain and extreme fatigue after a recent flu infection. I'm worried that I might have developed pneumonia. Can you please advise me on the best course of action to take?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm experiencing severe chest pain and shortness of breath after taking my medication for high blood pressure. I'm worried about my heart attack risk. Can I change my medication to something safer?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I am experiencing chest pain and shortness of breath. I've been taking ibuprofen for the past 24 hours, but my symptoms have not improved. Should I seek immediate medical attention?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I have been experiencing recurring headaches and I am concerned that it might be related to my diet. Can I discuss with my doctor the potential impact of too much caffeine and sugar on my body?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm experiencing persistent back pain after lifting heavy boxes at work. I have tried stretching and rest, but it persists. Can you advise on the best course of action?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been experiencing severe headaches and sensitivity to light for the past week. My doctor prescribed me medication for migraines, but it's not providing any relief. What could be the underlying cause of my symptoms?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been experiencing severe vomiting and diarrhea for the past 24 hours, along with a low-grade fever. I've been on antibiotics for a sinus infection for the past week, but I'm getting worried that the symptoms may be connected. What could be the possible causes?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I have been experiencing severe chest pain and difficulty breathing after lifting heavy objects. What can I do to alleviate this pain?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "The patient has been experiencing recurring episodes of sharp pains in the left side of her head, accompanied by sensitivity to light and sounds, and a sudden, severe headache when waking up in the morning. She also reports a history of similar episodes over the past few months.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm experiencing chest pain after eating a heavy meal, I also had a family history of heart disease, is there anything that could be causing this?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've recently started experiencing joint pain and stiffness, especially after physical activities. I was wondering if there's any way to prevent this from happening again. Have you heard of anything that might help with joint health?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been experiencing recurring episodes of fatigue and shortness of breath after exertion, which seem to be worse in the morning.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "My grandmother is experiencing severe chest pains after a recent fall and is now having trouble breathing. What are the symptoms and possible causes of this condition?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "My arm hurts when I lift it above my head and move it to the side, it's a sharp pain and my arm feels tired after, my doctor said something about inflammation but I'm not sure what it means, should I take any medication for it?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "The patient is experiencing a sudden severe headache, vomiting, and sensitivity to light. They have been feeling unwell for the past 24 hours and have a history of migraines.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been experiencing burning sensations when I urinate and a slight pressure in my lower back. Could this be a kidney stone?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been experiencing persistent fatigue and headaches after my recent surgery. What could be the reason behind it?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "Patient has been experiencing persistent pain in her left knee after jogging, mainly at the posterior aspect.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been experiencing constant headaches and fatigue for the past few weeks. My temperature is 38.5°C. I'm worried I might have urinary tract infection or bronchitis.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "My mom has been experiencing chest discomfort when she walks uphill, which is sometimes accompanied by a shortness of breath and a pain in her arm. It happens every time she goes for a longer walk and stops once she rests.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been experiencing some fatigue and body aches. Should I get tested for something like mono or something else?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "A 35-year-old woman is experiencing fatigue, shortness of breath, and a persistent cough, which worsens at night. She has a family history of heart disease and high blood pressure. She is a non-smoker and does not drink excessively. What could be the cause of her symptoms?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm experiencing symptoms like fever, headache, and fatigue. I went to the doctor and she gave me a shot and prescribed some medication. I want to know if this is a common illness in summer.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "The patient reports experiencing sudden severe headache, loss of vision and difficulty speaking. It started after a minor accident on the weekend.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I have been experiencing persistent chest pain when I exercise and shortness of breath after eating spicy food. Could it be related to a heart condition?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm experiencing severe chest pain and difficulty breathing. Can I schedule an appointment with my cardiologist?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm experiencing a painful and swollen ankle after a sports game yesterday. I've tried putting ice on it and elevating it, but the pain persists. What could be the possible causes and how do I treat it?",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I'm experiencing chronic headaches and dizziness, and I was wondering if it could be related to my high blood pressure.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  },
+  {
+    "question": "I've been feeling exhausted lately and I have a hard time sleeping. I'm 35 years old and have been experiencing shortness of breath after minor exercise. I'm worried it might be related to my high blood pressure.",
+    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "label": "symptom-description"
+  }
+]

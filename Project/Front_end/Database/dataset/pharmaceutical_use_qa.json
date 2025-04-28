@@ -1,0 +1,252 @@
+[
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I'd like to know if it's safe to take paracetamol with antibiotics. I'm taking them for a urinary tract infection. I want to make sure I'm not allergic to anything.",
+    "answer": "Paracetamol is generally safe to take with most antibiotics for pain or fever relief, but always confirm with your doctor or pharmacist to avoid potential interactions.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am scheduled for a colonoscopy procedure. Is it safe to stop taking my antacid medication for a week before the procedure?",
+    "answer": "Some doctors recommend stopping antacids before a colonoscopy to reduce interaction with prep medications. Always follow your physician's instructions for preparation.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been having some issues with my medication regimen and was wondering if switching to a generic version of my prescription would be safe and effective?",
+    "answer": "Generic medications contain the same active ingredients and are considered equally effective. Check with your doctor or pharmacist before switching.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me atorvastatin for high cholesterol. Is it okay to take it with a glass of grapefruit juice?",
+    "answer": "Grapefruit juice can interfere with the metabolism of atorvastatin, increasing side effect risk. It's generally recommended to avoid it during treatment.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I've been prescribed fluoxetine by my doctor to help with anxiety, but I'm concerned about interactions with my existing statin medication. What kind of precautions should I take?",
+    "answer": "Fluoxetine and statins can interact in rare cases. Your doctor may adjust doses or monitor for side effects such as muscle pain or liver issues.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I am planning to start taking vitamins regularly, could someone advise me on the best type of vitamin supplement for a vegetarian diet?",
+    "answer": "Vegetarians may benefit from B12, iron, vitamin D, and omega-3 supplements. It's best to consult a doctor or dietitian for personalized advice.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "What are the common symptoms of diabetes and how can it be treated?",
+    "answer": "Common symptoms include increased thirst, frequent urination, and fatigue. Treatment involves diet, exercise, monitoring, and sometimes medication like metformin or insulin.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor has prescribed me Zoloft for anxiety. Can it be taken with ibuprofen?",
+    "answer": "Zoloft and ibuprofen can be taken together but may slightly increase bleeding risk. Use under medical supervision, especially for long-term use.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "I was prescribed Lipitor for my high cholesterol and I have been taking it for a week. Can I also take it with my stomach issue medication?",
+    "answer": "Most stomach medications are safe with Lipitor, but some may affect absorption. Confirm with your pharmacist about your specific medication.",
+    "label": "pharmaceutical-use"
+  },
+  {
+    "question": "My doctor prescribed me a 3-month supply of tablets to take once a day for my blood pressure monitoring.",
+    "answer": "Taking daily tablets for blood pressure is a common and effective strategy. Ensure consistent use and follow up with your doctor for monitoring.",
+    "label": "pharmaceutical-use"
+  }
+]
