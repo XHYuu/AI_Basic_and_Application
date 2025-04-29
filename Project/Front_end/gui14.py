@@ -172,7 +172,6 @@ class ChatBox(QWidget):
                     is_sender=False)
                 if self.question is not None:
                     self.add_more_info(self.question)
-                time.sleep(4)
                 self.add_message(
                     "Do you have any other questions?",
                     is_sender=False)
