@@ -196,7 +196,7 @@
   },
   {
     "question": "I have ringing in my ears after starting new antibiotics. Could this be a warning sign?",
-    "answer": "Tinnitus can signal ototoxicity with certain antibiotics. Stop the medication and contact your provider immediately.",
+    "answer": "Ringing in the ears (tinnitus) after starting new antibiotics could be a warning sign of ototoxicity, a potential side effect of certain antibiotics, and you should contact your doctor promptly to evaluate the situation and consider adjusting or changing your medication if necessary.",
     "label": "medication-side-effect"
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "question": "I've been taking warfarin for the past 3 months to prevent blood clots and I've been experiencing frequent nosebleeds. Is this a side effect of the medication?",
-    "answer": "Frequent nosebleeds can be a sign of excess anticoagulation. You should report this to your doctor immediately to adjust the dose.",
+    "answer": "Frequent nosebleeds while taking warfarin may be a side effect caused by excessive anticoagulation, which is a known adverse reaction, and I recommend that you seek medical attention promptly to check your International Normalized Ratio (INR) and allow your doctor to adjust your medication dosage accordingly to ensure your safety.",
     "label": "medication-side-effect"
   },
   {

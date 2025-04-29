@@ -901,7 +901,7 @@
   },
   {
     "question": "I am experiencing symptoms of mild fever, headache, and body aches. I recently took a trip to an area with high risk of Lyme disease. Should I start taking antibiotics?",
-    "answer": "Please consult a medical professional. Your symptoms may require further clinical evaluation to determine the appropriate diagnosis and treatment.",
+    "answer": "Given your symptoms and recent travel to a Lyme disease–risk area, it's important to see a doctor promptly. Starting antibiotics without proper evaluation is not recommended. A clinical assessment will help determine if treatment is needed.",
     "label": "symptom-description",
     "id": "0151"
   },

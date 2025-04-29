@@ -69,8 +69,8 @@ def create_database(model):
 
 
 def search_by_label(query, label, root_path="faiss_index/", top_k=5):
-    # create_database(model)
     model = SentenceTransformer("all-MiniLM-L6-v2")
+    # create_database(model)
     index_path = root_path + f"{label}_index.bin"
     meta_path = root_path + f"{label}_meta.pkl"
 
@@ -102,5 +102,5 @@ def search_by_label(query, label, root_path="faiss_index/", top_k=5):
 
 if __name__ == "__main__":
     # model = SentenceTransformer("all-MiniLM-L6-v2")
-    result = search_by_label("Are vaccines safe?", "medication-side-effect", top_k=10)
+    result = search_by_label("I am experiencing symptoms of mild fever, headache, and body aches. I recently took a trip to an area with high risk of Lyme disease. Should I start taking antibiotics?", "symptom-description", top_k=10)
     print(result[0])
