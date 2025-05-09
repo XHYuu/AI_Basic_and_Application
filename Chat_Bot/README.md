@@ -58,7 +58,7 @@ then augment the input to the LLM agent (e.g., via Ollama or API), producing the
 
 This project uses three main medical dialogue datasets:
 
-### 1. healthcare-consults
+### 1. Healthcare Consults
 
 - Approximately 100 manually curated health consultation utterances
 - Used for model fine-tuning and category analysis
